@@ -1,0 +1,1001 @@
+Name,Email,Major,GPA,Gender,Age,CreditHours,BirthYear,GraduationYear,FailedCourses
+Gary Armstrong,gary_armstrong@zewailcity.edu.eg,Mechanical Engineering,2.89,Female,20,61,1999,2025,0
+Donald Shea,donald_shea@zewailcity.edu.eg,Computer Science,1.59,Male,25,116,2001,2024,0
+Ralph Harvey,ralph_harvey@zewailcity.edu.eg,Computer Science,3.52,Male,23,63,2002,2024,9
+Bradley Dudley,bradley_dudley@zewailcity.edu.eg,Chemistry,2.26,Female,19,89,2003,2026,10
+Aaron Harris,aaron_harris@zewailcity.edu.eg,Computer Science,1.89,Female,24,73,1994,2027,8
+Deanna Simpson,deanna_simpson@zewailcity.edu.eg,Mechanical Engineering,3.68,Female,18,113,1997,2026,2
+Nathan Powell,nathan_powell@zewailcity.edu.eg,Physics,3.24,Male,19,91,1992,2026,7
+Jocelyn Lee,jocelyn_lee@zewailcity.edu.eg,Mathematics,2.08,Male,18,100,1994,2024,2
+William Leonard,william_leonard@zewailcity.edu.eg,Mathematics,3.41,Male,19,77,1990,2026,4
+Jeremy Vaughn,jeremy_vaughn@zewailcity.edu.eg,Physics,2.9,Male,18,79,1993,2025,5
+Mr. Tyrone Callahan,mr._tyrone_callahan@zewailcity.edu.eg,Biotechnology,1.5,Female,25,73,1993,2024,4
+Travis Hudson,travis_hudson@zewailcity.edu.eg,Mechanical Engineering,2.88,Male,23,146,2000,2027,9
+James Thomas Jr.,james_thomas_jr.@zewailcity.edu.eg,Physics,3.57,Male,21,137,2003,2026,10
+Stephanie Davis,stephanie_davis@zewailcity.edu.eg,Computer Science,2.34,Female,24,66,1996,2026,1
+Thomas Weber,thomas_weber@zewailcity.edu.eg,Computer Science,3.19,Female,18,125,1993,2027,9
+Michael Hayes,michael_hayes@zewailcity.edu.eg,Computer Science,1.83,Female,21,60,1993,2027,6
+Kendra Jones,kendra_jones@zewailcity.edu.eg,Chemistry,1.38,Female,23,141,1996,2024,7
+Sheila Owens,sheila_owens@zewailcity.edu.eg,Mathematics,3.04,Female,21,97,1998,2024,6
+Christopher Powell,christopher_powell@zewailcity.edu.eg,Computer Science,2.14,Male,19,108,1998,2024,1
+Timothy Orr,timothy_orr@zewailcity.edu.eg,Chemistry,3.81,Male,23,126,2004,2026,5
+Madeline King,madeline_king@zewailcity.edu.eg,Chemistry,3.49,Female,22,79,1994,2024,4
+Alexandria Duran,alexandria_duran@zewailcity.edu.eg,Chemistry,2.65,Female,25,134,1991,2025,7
+Mallory Smith,mallory_smith@zewailcity.edu.eg,Physics,3.32,Female,25,128,1996,2027,3
+Kristina Robinson,kristina_robinson@zewailcity.edu.eg,Chemistry,3.48,Male,24,148,1994,2026,1
+Hunter Daniel,hunter_daniel@zewailcity.edu.eg,Physics,2.08,Female,22,147,1998,2025,5
+Rebecca Chapman,rebecca_chapman@zewailcity.edu.eg,Physics,2.51,Female,21,132,2003,2025,8
+Mary Elliott,mary_elliott@zewailcity.edu.eg,Physics,3.88,Female,24,149,1992,2024,3
+Diane Flores,diane_flores@zewailcity.edu.eg,Computer Science,2.74,Female,20,138,2000,2025,4
+Leah Thomas,leah_thomas@zewailcity.edu.eg,Physics,1.75,Male,24,71,2003,2027,8
+Cheryl Rivera,cheryl_rivera@zewailcity.edu.eg,Chemistry,1.24,Male,20,101,2002,2026,7
+Marcus Flynn,marcus_flynn@zewailcity.edu.eg,Mathematics,1.9,Male,22,133,1993,2025,1
+David Berg,david_berg@zewailcity.edu.eg,Computer Science,1.27,Male,24,70,1992,2025,10
+Cheryl Adams,cheryl_adams@zewailcity.edu.eg,Mathematics,3.91,Female,24,141,1995,2025,9
+Cody Middleton,cody_middleton@zewailcity.edu.eg,Biotechnology,3.04,Female,22,145,2000,2026,3
+Holly Edwards,holly_edwards@zewailcity.edu.eg,Physics,3.91,Male,23,91,1990,2027,7
+Samantha Hill,samantha_hill@zewailcity.edu.eg,Chemistry,2.18,Male,25,141,1998,2025,5
+Julia Schmidt,julia_schmidt@zewailcity.edu.eg,Chemistry,2.41,Female,23,91,1992,2026,7
+James Castillo,james_castillo@zewailcity.edu.eg,Physics,2.77,Male,22,87,1993,2027,0
+Brian Sanders,brian_sanders@zewailcity.edu.eg,Computer Science,2.2,Male,22,96,2004,2027,2
+Adrienne Levine,adrienne_levine@zewailcity.edu.eg,Mathematics,3.79,Male,19,106,2004,2024,1
+David Valenzuela,david_valenzuela@zewailcity.edu.eg,Computer Science,1.63,Male,23,68,1992,2027,4
+Crystal Smith,crystal_smith@zewailcity.edu.eg,Biotechnology,3.07,Female,23,77,1994,2027,8
+Sherry Carrillo,sherry_carrillo@zewailcity.edu.eg,Biotechnology,3.0,Female,21,113,1993,2024,9
+Patrick Flowers,patrick_flowers@zewailcity.edu.eg,Mathematics,2.06,Male,19,124,1993,2024,2
+Maria Bentley,maria_bentley@zewailcity.edu.eg,Physics,3.9,Female,22,76,1991,2024,5
+Megan Moore,megan_moore@zewailcity.edu.eg,Computer Science,1.76,Female,22,75,1998,2026,9
+Shannon Soto,shannon_soto@zewailcity.edu.eg,Biotechnology,2.65,Male,23,95,1992,2024,0
+Rachel Griffin,rachel_griffin@zewailcity.edu.eg,Physics,1.62,Female,20,129,1996,2027,4
+Andrea Kelly,andrea_kelly@zewailcity.edu.eg,Physics,3.24,Male,23,123,2002,2026,8
+Richard Wilson,richard_wilson@zewailcity.edu.eg,Chemistry,2.32,Male,18,82,2003,2027,0
+Margaret Lee,margaret_lee@zewailcity.edu.eg,Chemistry,2.06,Female,25,149,2003,2027,6
+Amber Moore,amber_moore@zewailcity.edu.eg,Physics,2.44,Female,18,88,1990,2025,8
+Desiree Phillips,desiree_phillips@zewailcity.edu.eg,Physics,1.86,Male,23,138,1999,2025,4
+Joseph Johnson,joseph_johnson@zewailcity.edu.eg,Chemistry,3.08,Female,24,96,1998,2026,6
+Jeffrey Nelson,jeffrey_nelson@zewailcity.edu.eg,Computer Science,1.97,Female,25,80,2004,2026,10
+Brenda Reed,brenda_reed@zewailcity.edu.eg,Mathematics,1.63,Female,22,90,1996,2027,1
+Michael Gallagher,michael_gallagher@zewailcity.edu.eg,Mathematics,1.77,Male,25,90,1997,2025,10
+Christine Carter,christine_carter@zewailcity.edu.eg,Computer Science,3.45,Male,21,112,2003,2025,3
+Richard Olson,richard_olson@zewailcity.edu.eg,Biotechnology,1.58,Male,19,75,2003,2026,10
+Jacob Martin,jacob_martin@zewailcity.edu.eg,Biotechnology,2.21,Male,25,70,1999,2024,3
+Casey Orozco,casey_orozco@zewailcity.edu.eg,Physics,1.75,Male,18,104,1992,2027,9
+Mr. Preston Serrano,mr._preston_serrano@zewailcity.edu.eg,Mathematics,3.01,Female,23,147,1995,2025,1
+Paul Mcpherson,paul_mcpherson@zewailcity.edu.eg,Biotechnology,1.82,Male,22,110,1994,2026,9
+Brian Snyder,brian_snyder@zewailcity.edu.eg,Computer Science,3.71,Male,21,118,2000,2025,5
+Shelly Davidson,shelly_davidson@zewailcity.edu.eg,Mathematics,3.28,Female,20,78,2000,2027,2
+Heidi Gutierrez,heidi_gutierrez@zewailcity.edu.eg,Mathematics,2.24,Female,24,124,2004,2025,9
+Destiny Davis,destiny_davis@zewailcity.edu.eg,Physics,3.53,Female,21,94,2000,2026,4
+Alex Sanchez,alex_sanchez@zewailcity.edu.eg,Mechanical Engineering,2.01,Female,25,112,2004,2024,9
+Robert Steele,robert_steele@zewailcity.edu.eg,Chemistry,1.91,Female,21,71,1997,2024,4
+Michelle Hardy,michelle_hardy@zewailcity.edu.eg,Biotechnology,3.15,Female,24,112,2000,2027,9
+Adam Lowery,adam_lowery@zewailcity.edu.eg,Biotechnology,3.12,Female,24,65,2004,2027,4
+Jason Cowan,jason_cowan@zewailcity.edu.eg,Physics,3.2,Male,21,82,1997,2026,6
+Sandra Gross,sandra_gross@zewailcity.edu.eg,Mechanical Engineering,3.75,Female,18,81,1994,2025,7
+Richard Duke,richard_duke@zewailcity.edu.eg,Chemistry,1.29,Female,24,136,1999,2027,4
+Chad Simmons,chad_simmons@zewailcity.edu.eg,Mechanical Engineering,2.11,Female,19,139,2004,2026,7
+Jacob Rowland,jacob_rowland@zewailcity.edu.eg,Physics,1.43,Male,21,114,1991,2024,8
+James White,james_white@zewailcity.edu.eg,Computer Science,3.33,Female,20,80,1998,2026,6
+Caleb Thompson,caleb_thompson@zewailcity.edu.eg,Biotechnology,1.41,Female,19,144,1991,2026,4
+Sean Adkins,sean_adkins@zewailcity.edu.eg,Physics,2.41,Female,19,122,2001,2025,9
+Jeffrey Jones,jeffrey_jones@zewailcity.edu.eg,Biotechnology,2.04,Female,25,122,1994,2026,9
+Amanda Hughes,amanda_hughes@zewailcity.edu.eg,Mechanical Engineering,3.21,Female,18,131,1998,2025,10
+Darren Hill,darren_hill@zewailcity.edu.eg,Mathematics,3.01,Male,18,137,1994,2026,3
+John Brown,john_brown@zewailcity.edu.eg,Chemistry,3.1,Female,25,121,1998,2026,6
+Brenda Davis,brenda_davis@zewailcity.edu.eg,Mechanical Engineering,2.97,Female,20,117,1997,2025,2
+Courtney Johnson,courtney_johnson@zewailcity.edu.eg,Computer Science,3.6,Female,19,89,1995,2026,5
+George Hall,george_hall@zewailcity.edu.eg,Physics,2.53,Female,18,68,1990,2024,10
+Jennifer Mcdaniel,jennifer_mcdaniel@zewailcity.edu.eg,Mathematics,3.16,Male,25,74,1993,2027,7
+Ian Meyer,ian_meyer@zewailcity.edu.eg,Mechanical Engineering,2.85,Female,20,90,1998,2025,6
+Seth Browning,seth_browning@zewailcity.edu.eg,Computer Science,3.23,Male,24,60,1999,2026,2
+Maria Watson,maria_watson@zewailcity.edu.eg,Computer Science,1.75,Female,20,121,2001,2024,8
+Spencer Hopkins,spencer_hopkins@zewailcity.edu.eg,Physics,1.23,Male,25,124,1993,2025,2
+Ashley Gonzales,ashley_gonzales@zewailcity.edu.eg,Computer Science,2.32,Female,19,116,2000,2025,6
+Sophia Miller,sophia_miller@zewailcity.edu.eg,Chemistry,1.67,Female,19,66,2002,2026,2
+Laura Henderson,laura_henderson@zewailcity.edu.eg,Physics,3.29,Male,18,65,1998,2026,9
+Deborah Rodriguez,deborah_rodriguez@zewailcity.edu.eg,Mathematics,2.11,Male,21,114,1996,2027,3
+Victor Webb,victor_webb@zewailcity.edu.eg,Biotechnology,1.58,Male,20,105,1994,2025,0
+Rose Hays,rose_hays@zewailcity.edu.eg,Computer Science,2.4,Male,21,123,1992,2026,3
+Mercedes Martinez,mercedes_martinez@zewailcity.edu.eg,Mechanical Engineering,2.43,Male,21,124,2004,2025,5
+Carla Alexander,carla_alexander@zewailcity.edu.eg,Physics,2.75,Male,19,91,2001,2025,7
+Lawrence Gross,lawrence_gross@zewailcity.edu.eg,Computer Science,2.97,Male,23,103,2000,2024,9
+Jessica Adams,jessica_adams@zewailcity.edu.eg,Computer Science,2.89,Male,21,60,1993,2025,4
+Angela Kelly,angela_kelly@zewailcity.edu.eg,Biotechnology,3.69,Male,19,73,2002,2027,3
+Samantha Jones,samantha_jones@zewailcity.edu.eg,Computer Science,1.22,Male,25,105,2004,2026,2
+Eric Scott,eric_scott@zewailcity.edu.eg,Chemistry,3.82,Female,25,133,1998,2025,1
+Brian Miller,brian_miller@zewailcity.edu.eg,Computer Science,2.03,Female,20,121,1991,2025,9
+Billy Glass,billy_glass@zewailcity.edu.eg,Chemistry,2.85,Female,18,129,2001,2027,1
+Andrew Bishop,andrew_bishop@zewailcity.edu.eg,Mathematics,1.86,Female,25,143,1995,2024,6
+Joshua Lloyd,joshua_lloyd@zewailcity.edu.eg,Physics,2.25,Male,25,86,1999,2025,5
+Tammy Mccann,tammy_mccann@zewailcity.edu.eg,Mechanical Engineering,1.63,Male,22,97,1995,2026,7
+Heidi Gardner,heidi_gardner@zewailcity.edu.eg,Mechanical Engineering,1.48,Female,20,103,1993,2027,9
+Jeremy Shelton,jeremy_shelton@zewailcity.edu.eg,Chemistry,2.58,Male,19,150,2003,2027,0
+Jorge Torres,jorge_torres@zewailcity.edu.eg,Mechanical Engineering,3.84,Male,24,69,1996,2027,8
+Kimberly Barnes,kimberly_barnes@zewailcity.edu.eg,Mechanical Engineering,2.14,Male,23,116,1994,2025,2
+Rebecca Perez,rebecca_perez@zewailcity.edu.eg,Biotechnology,2.17,Male,20,119,1992,2024,10
+Alison Khan,alison_khan@zewailcity.edu.eg,Mechanical Engineering,1.51,Male,25,123,1996,2026,1
+Steven Dixon,steven_dixon@zewailcity.edu.eg,Physics,3.06,Female,20,66,1998,2024,6
+Jamie Allen,jamie_allen@zewailcity.edu.eg,Mathematics,1.36,Male,20,61,2002,2024,10
+Samuel Jackson,samuel_jackson@zewailcity.edu.eg,Mechanical Engineering,3.75,Male,24,95,2000,2024,4
+Rebecca Hansen,rebecca_hansen@zewailcity.edu.eg,Physics,1.3,Male,23,143,1999,2026,8
+Barbara Gallegos,barbara_gallegos@zewailcity.edu.eg,Mechanical Engineering,2.4,Female,19,145,1994,2027,9
+Christina Carpenter,christina_carpenter@zewailcity.edu.eg,Mechanical Engineering,2.33,Female,20,119,2003,2026,3
+Jennifer Mills,jennifer_mills@zewailcity.edu.eg,Biotechnology,1.92,Female,21,141,1990,2025,9
+Dana Barker,dana_barker@zewailcity.edu.eg,Mechanical Engineering,2.14,Male,22,127,1992,2027,0
+David Fisher,david_fisher@zewailcity.edu.eg,Mechanical Engineering,1.27,Male,22,135,1997,2024,4
+Daniel Ryan,daniel_ryan@zewailcity.edu.eg,Physics,2.23,Male,24,87,2002,2027,5
+John Moore,john_moore@zewailcity.edu.eg,Mechanical Engineering,2.79,Male,20,132,1993,2024,9
+Jared Anderson,jared_anderson@zewailcity.edu.eg,Mechanical Engineering,1.62,Male,22,97,2001,2024,8
+Megan Carrillo,megan_carrillo@zewailcity.edu.eg,Computer Science,1.92,Female,24,84,1990,2026,8
+Charles Armstrong,charles_armstrong@zewailcity.edu.eg,Mathematics,2.44,Female,18,93,2000,2027,5
+Kathleen David,kathleen_david@zewailcity.edu.eg,Computer Science,2.43,Female,23,60,1994,2027,6
+Keith Henry,keith_henry@zewailcity.edu.eg,Computer Science,2.41,Female,22,111,2002,2026,4
+David Gonzalez,david_gonzalez@zewailcity.edu.eg,Mechanical Engineering,3.87,Male,24,110,2001,2027,2
+Stephanie Fitzpatrick,stephanie_fitzpatrick@zewailcity.edu.eg,Biotechnology,2.21,Male,25,110,2001,2024,8
+Matthew Kennedy,matthew_kennedy@zewailcity.edu.eg,Physics,1.99,Male,23,142,1990,2024,9
+David Marquez,david_marquez@zewailcity.edu.eg,Computer Science,3.74,Female,24,107,1994,2027,8
+Erin Rodriguez,erin_rodriguez@zewailcity.edu.eg,Mathematics,2.49,Female,18,96,1992,2027,0
+Arthur Morton,arthur_morton@zewailcity.edu.eg,Mathematics,2.3,Male,25,88,1990,2026,9
+Debra Castro,debra_castro@zewailcity.edu.eg,Mechanical Engineering,2.36,Male,25,137,2002,2025,9
+James Adams,james_adams@zewailcity.edu.eg,Biotechnology,2.68,Male,18,112,1996,2024,6
+Darrell Huffman,darrell_huffman@zewailcity.edu.eg,Chemistry,1.64,Female,22,87,1993,2027,7
+Elizabeth Burns,elizabeth_burns@zewailcity.edu.eg,Mathematics,3.44,Male,25,142,1998,2024,6
+Jeffrey Green,jeffrey_green@zewailcity.edu.eg,Mechanical Engineering,3.71,Female,22,76,2003,2025,2
+Christopher Black,christopher_black@zewailcity.edu.eg,Chemistry,3.34,Female,24,71,1992,2025,4
+Jeffery Martin,jeffery_martin@zewailcity.edu.eg,Mathematics,3.12,Male,18,122,2003,2027,5
+Heather Jones,heather_jones@zewailcity.edu.eg,Mathematics,3.72,Male,23,97,1999,2026,7
+Timothy Johnson,timothy_johnson@zewailcity.edu.eg,Mechanical Engineering,2.8,Male,24,138,2000,2026,10
+Kimberly Murphy,kimberly_murphy@zewailcity.edu.eg,Physics,1.56,Female,23,82,1997,2027,3
+Kevin White,kevin_white@zewailcity.edu.eg,Computer Science,2.26,Female,25,66,1997,2024,10
+Samantha Park,samantha_park@zewailcity.edu.eg,Chemistry,1.45,Female,25,126,1990,2026,3
+Noah Cox,noah_cox@zewailcity.edu.eg,Computer Science,3.19,Male,18,138,1996,2027,5
+Tina Moore,tina_moore@zewailcity.edu.eg,Mathematics,3.55,Male,24,110,2003,2024,5
+Johnny Leon,johnny_leon@zewailcity.edu.eg,Mathematics,1.64,Male,21,74,2002,2025,6
+Lance Martin,lance_martin@zewailcity.edu.eg,Computer Science,3.94,Female,23,113,1998,2026,2
+Jeff Richards,jeff_richards@zewailcity.edu.eg,Mechanical Engineering,1.27,Male,23,136,2000,2026,6
+Thomas Taylor DDS,thomas_taylor_dds@zewailcity.edu.eg,Mechanical Engineering,2.01,Female,22,74,2003,2024,2
+Dawn Fuller,dawn_fuller@zewailcity.edu.eg,Mechanical Engineering,2.3,Female,18,89,2001,2025,10
+Tiffany Miller,tiffany_miller@zewailcity.edu.eg,Computer Science,3.9,Male,23,63,2002,2024,2
+Norman Thompson,norman_thompson@zewailcity.edu.eg,Mechanical Engineering,2.26,Male,19,125,2002,2025,1
+Jodi Thompson,jodi_thompson@zewailcity.edu.eg,Mechanical Engineering,2.72,Female,18,127,1997,2027,10
+Marie Vaughn,marie_vaughn@zewailcity.edu.eg,Mathematics,3.18,Male,24,137,2000,2027,1
+Joshua Quinn,joshua_quinn@zewailcity.edu.eg,Mathematics,3.58,Female,23,124,2000,2024,10
+Antonio Whitehead,antonio_whitehead@zewailcity.edu.eg,Physics,1.33,Male,23,71,2004,2025,2
+David Holt,david_holt@zewailcity.edu.eg,Biotechnology,2.02,Male,23,75,2003,2024,2
+Katherine Lee,katherine_lee@zewailcity.edu.eg,Mathematics,1.34,Male,23,79,1996,2025,0
+Sabrina Ingram,sabrina_ingram@zewailcity.edu.eg,Mechanical Engineering,1.99,Female,18,61,1994,2024,0
+Randy Dunn,randy_dunn@zewailcity.edu.eg,Biotechnology,3.65,Female,18,143,2003,2027,8
+Samantha Montoya,samantha_montoya@zewailcity.edu.eg,Computer Science,2.15,Male,25,72,1998,2027,3
+Kristopher Cline,kristopher_cline@zewailcity.edu.eg,Physics,1.28,Female,25,121,1993,2024,9
+Claire Cox,claire_cox@zewailcity.edu.eg,Chemistry,2.18,Female,23,141,1998,2026,6
+Rachel Ray,rachel_ray@zewailcity.edu.eg,Physics,3.84,Male,20,86,1998,2027,9
+Kimberly Hopkins,kimberly_hopkins@zewailcity.edu.eg,Biotechnology,3.97,Male,23,114,1997,2027,10
+Christopher Schmitt,christopher_schmitt@zewailcity.edu.eg,Mathematics,3.57,Female,20,137,1993,2027,5
+Derek Swanson,derek_swanson@zewailcity.edu.eg,Computer Science,3.23,Male,24,137,1998,2025,5
+Julie Hudson,julie_hudson@zewailcity.edu.eg,Computer Science,2.0,Female,23,113,1993,2024,4
+Alison Miller,alison_miller@zewailcity.edu.eg,Computer Science,3.91,Male,18,103,1999,2026,9
+Andrew Mcdaniel,andrew_mcdaniel@zewailcity.edu.eg,Chemistry,3.88,Male,23,107,1994,2026,0
+Julie Berger,julie_berger@zewailcity.edu.eg,Biotechnology,2.62,Male,24,99,1990,2026,5
+Randall Rice,randall_rice@zewailcity.edu.eg,Computer Science,3.79,Male,19,97,1992,2024,5
+Megan Spencer,megan_spencer@zewailcity.edu.eg,Mechanical Engineering,3.06,Male,20,80,2002,2025,6
+Deborah Swanson,deborah_swanson@zewailcity.edu.eg,Biotechnology,3.38,Male,22,63,1993,2024,6
+Marissa Summers,marissa_summers@zewailcity.edu.eg,Chemistry,1.72,Female,19,79,2004,2027,6
+Eric Campbell,eric_campbell@zewailcity.edu.eg,Biotechnology,3.99,Male,22,93,2004,2025,9
+Sydney Johnson,sydney_johnson@zewailcity.edu.eg,Computer Science,2.19,Male,24,71,2000,2027,3
+George Griffin,george_griffin@zewailcity.edu.eg,Biotechnology,3.5,Male,19,73,1990,2024,8
+Theresa Gross,theresa_gross@zewailcity.edu.eg,Physics,2.02,Female,25,150,1991,2027,5
+Danielle Berg,danielle_berg@zewailcity.edu.eg,Physics,2.59,Male,21,123,1994,2027,6
+Allison Garrett,allison_garrett@zewailcity.edu.eg,Chemistry,3.6,Male,19,110,2000,2027,8
+Mary Jones,mary_jones@zewailcity.edu.eg,Physics,2.82,Male,23,102,1997,2027,2
+Colin Aguilar,colin_aguilar@zewailcity.edu.eg,Computer Science,2.86,Male,20,95,1999,2027,4
+Denise Crawford,denise_crawford@zewailcity.edu.eg,Chemistry,3.14,Female,25,144,2003,2024,7
+Sarah Chavez,sarah_chavez@zewailcity.edu.eg,Mechanical Engineering,3.86,Male,20,100,1993,2027,9
+Catherine Berger,catherine_berger@zewailcity.edu.eg,Mechanical Engineering,2.45,Male,25,114,2004,2026,0
+Kristen Mccormick,kristen_mccormick@zewailcity.edu.eg,Physics,2.66,Female,18,113,2004,2026,5
+Stephen Pope,stephen_pope@zewailcity.edu.eg,Mechanical Engineering,2.16,Male,23,119,2002,2025,8
+Meagan Jones,meagan_jones@zewailcity.edu.eg,Chemistry,1.79,Male,19,89,1992,2026,10
+Stephanie Leblanc,stephanie_leblanc@zewailcity.edu.eg,Computer Science,3.89,Male,19,121,1992,2026,0
+Megan Rocha,megan_rocha@zewailcity.edu.eg,Mechanical Engineering,1.34,Female,19,111,1999,2025,5
+Rodney Estrada,rodney_estrada@zewailcity.edu.eg,Mathematics,3.36,Male,18,135,1997,2025,2
+James Padilla,james_padilla@zewailcity.edu.eg,Physics,3.15,Female,18,114,1996,2024,2
+Jesse Harper,jesse_harper@zewailcity.edu.eg,Physics,2.49,Male,23,81,1993,2027,3
+Heather Davis,heather_davis@zewailcity.edu.eg,Computer Science,3.76,Female,23,94,2001,2025,1
+Miss Brittany Guerrero,miss_brittany_guerrero@zewailcity.edu.eg,Physics,2.74,Male,18,114,2002,2027,4
+Dana Little,dana_little@zewailcity.edu.eg,Physics,2.13,Female,23,140,1995,2025,2
+Suzanne Gardner,suzanne_gardner@zewailcity.edu.eg,Computer Science,1.46,Female,25,144,2003,2026,2
+Jorge Holland,jorge_holland@zewailcity.edu.eg,Biotechnology,2.76,Female,20,86,1998,2027,10
+Sean Lewis,sean_lewis@zewailcity.edu.eg,Physics,3.16,Male,20,127,1991,2024,0
+Manuel Ford,manuel_ford@zewailcity.edu.eg,Mathematics,3.28,Male,20,117,2002,2027,5
+Kristina Vang,kristina_vang@zewailcity.edu.eg,Biotechnology,3.29,Female,25,91,1994,2027,4
+Sean Tran,sean_tran@zewailcity.edu.eg,Computer Science,2.51,Female,21,115,2002,2027,3
+Mary Evans,mary_evans@zewailcity.edu.eg,Chemistry,1.31,Female,21,88,2001,2027,5
+Allison Smith,allison_smith@zewailcity.edu.eg,Mathematics,3.49,Male,21,130,2000,2027,4
+Elizabeth Barnes,elizabeth_barnes@zewailcity.edu.eg,Physics,2.84,Male,22,112,1997,2025,8
+Christine Martin,christine_martin@zewailcity.edu.eg,Biotechnology,1.87,Female,21,100,2003,2026,8
+Ethan Payne,ethan_payne@zewailcity.edu.eg,Computer Science,3.55,Male,23,82,1994,2026,4
+Yvonne Ochoa,yvonne_ochoa@zewailcity.edu.eg,Mathematics,2.18,Male,22,142,1995,2025,8
+Patrick Boyd,patrick_boyd@zewailcity.edu.eg,Biotechnology,2.29,Male,23,93,1991,2026,9
+Gabriella Hughes,gabriella_hughes@zewailcity.edu.eg,Biotechnology,3.92,Male,25,94,1991,2027,2
+Daniel Estrada,daniel_estrada@zewailcity.edu.eg,Biotechnology,1.73,Female,19,67,1993,2027,9
+Lynn Byrd,lynn_byrd@zewailcity.edu.eg,Mechanical Engineering,2.96,Female,22,133,1998,2024,5
+John Espinoza,john_espinoza@zewailcity.edu.eg,Mathematics,1.73,Female,18,97,2003,2027,10
+Luke Butler,luke_butler@zewailcity.edu.eg,Computer Science,3.71,Male,21,72,2004,2026,10
+Sandra Johnson,sandra_johnson@zewailcity.edu.eg,Biotechnology,3.88,Male,25,83,2002,2025,6
+Elizabeth Richard,elizabeth_richard@zewailcity.edu.eg,Physics,2.68,Male,23,84,2000,2025,6
+Daniel Castro,daniel_castro@zewailcity.edu.eg,Physics,2.65,Male,20,71,2002,2027,7
+Travis Allen,travis_allen@zewailcity.edu.eg,Chemistry,2.19,Male,18,89,2000,2027,9
+Cynthia Lynch,cynthia_lynch@zewailcity.edu.eg,Biotechnology,3.45,Male,18,144,2000,2025,3
+Reginald Mcdonald,reginald_mcdonald@zewailcity.edu.eg,Physics,2.54,Female,19,72,2001,2026,1
+Jennifer Glass,jennifer_glass@zewailcity.edu.eg,Mathematics,3.09,Female,23,130,1997,2024,2
+Darlene Davis,darlene_davis@zewailcity.edu.eg,Mathematics,1.34,Male,21,74,1992,2027,10
+Robert Horne,robert_horne@zewailcity.edu.eg,Computer Science,3.56,Male,18,109,2004,2026,5
+Meghan Huber,meghan_huber@zewailcity.edu.eg,Biotechnology,3.23,Female,22,65,1999,2025,4
+Christopher Rosales,christopher_rosales@zewailcity.edu.eg,Mathematics,2.19,Male,19,141,2004,2027,1
+Wendy Avila,wendy_avila@zewailcity.edu.eg,Mechanical Engineering,3.48,Male,25,92,1993,2026,10
+Angela Farley,angela_farley@zewailcity.edu.eg,Biotechnology,1.33,Female,18,145,2002,2025,7
+Tamara James,tamara_james@zewailcity.edu.eg,Mathematics,2.02,Female,19,98,1999,2027,2
+Chelsea Wiggins,chelsea_wiggins@zewailcity.edu.eg,Chemistry,2.16,Male,19,92,1990,2025,3
+George Scott,george_scott@zewailcity.edu.eg,Physics,3.37,Male,24,148,2002,2027,8
+Robert Hicks,robert_hicks@zewailcity.edu.eg,Physics,2.04,Male,21,102,1990,2024,4
+Brandon Lawson,brandon_lawson@zewailcity.edu.eg,Computer Science,3.43,Female,18,139,1996,2024,6
+Allison Sanchez,allison_sanchez@zewailcity.edu.eg,Computer Science,3.52,Female,24,137,2000,2027,8
+Mario Schmidt,mario_schmidt@zewailcity.edu.eg,Physics,3.53,Female,24,101,1997,2026,8
+Jason West,jason_west@zewailcity.edu.eg,Biotechnology,3.82,Male,21,63,1994,2025,7
+Douglas Williams,douglas_williams@zewailcity.edu.eg,Computer Science,3.9,Male,24,88,2003,2027,0
+Allen Perez,allen_perez@zewailcity.edu.eg,Biotechnology,1.34,Male,21,124,1997,2027,9
+Ashley Ho,ashley_ho@zewailcity.edu.eg,Computer Science,3.23,Male,24,80,2004,2027,8
+Scott West,scott_west@zewailcity.edu.eg,Biotechnology,1.76,Male,24,77,1992,2026,2
+Amber Cook,amber_cook@zewailcity.edu.eg,Biotechnology,3.29,Male,22,61,1992,2026,9
+Andrew Miller,andrew_miller@zewailcity.edu.eg,Mechanical Engineering,1.22,Female,24,84,1994,2026,6
+Victoria Brown,victoria_brown@zewailcity.edu.eg,Mathematics,1.58,Female,20,81,1998,2027,9
+Brandon Cook,brandon_cook@zewailcity.edu.eg,Physics,2.37,Female,18,89,1992,2027,9
+Jeffrey Richardson,jeffrey_richardson@zewailcity.edu.eg,Biotechnology,2.92,Female,19,60,2001,2025,8
+Tina Mullins,tina_mullins@zewailcity.edu.eg,Biotechnology,1.96,Female,19,124,2002,2027,5
+Christopher Solomon,christopher_solomon@zewailcity.edu.eg,Mechanical Engineering,1.82,Male,25,102,2004,2026,9
+Kimberly Baxter,kimberly_baxter@zewailcity.edu.eg,Physics,2.55,Male,24,120,2004,2027,9
+Joseph Rodriguez,joseph_rodriguez@zewailcity.edu.eg,Physics,3.55,Male,22,104,1999,2026,9
+Cynthia Banks,cynthia_banks@zewailcity.edu.eg,Mathematics,3.11,Female,18,99,1999,2026,4
+Zachary Hoover,zachary_hoover@zewailcity.edu.eg,Mathematics,1.86,Male,25,141,1998,2024,9
+James Ferguson,james_ferguson@zewailcity.edu.eg,Chemistry,2.82,Female,21,85,2002,2026,10
+Carlos Manning,carlos_manning@zewailcity.edu.eg,Mechanical Engineering,3.87,Male,19,60,1990,2024,2
+Robert Edwards,robert_edwards@zewailcity.edu.eg,Chemistry,2.88,Male,20,105,2002,2026,6
+Charles Roberts,charles_roberts@zewailcity.edu.eg,Mathematics,2.31,Male,18,71,1995,2027,10
+Aaron Craig,aaron_craig@zewailcity.edu.eg,Chemistry,2.4,Male,21,84,1992,2027,2
+Thomas Sherman,thomas_sherman@zewailcity.edu.eg,Biotechnology,3.28,Female,23,110,1997,2025,8
+Carrie Ellis,carrie_ellis@zewailcity.edu.eg,Mechanical Engineering,3.97,Female,21,140,2001,2026,9
+Jennifer Garrett,jennifer_garrett@zewailcity.edu.eg,Chemistry,1.5,Male,19,77,2004,2027,3
+John Fields,john_fields@zewailcity.edu.eg,Physics,2.35,Female,21,103,1997,2024,4
+Nicholas Smith,nicholas_smith@zewailcity.edu.eg,Physics,2.63,Female,24,110,1993,2027,2
+Whitney Bell,whitney_bell@zewailcity.edu.eg,Mechanical Engineering,1.72,Female,24,98,2002,2026,0
+Amber Hubbard,amber_hubbard@zewailcity.edu.eg,Computer Science,2.82,Male,23,119,1995,2024,0
+Matthew Jones,matthew_jones@zewailcity.edu.eg,Chemistry,2.95,Male,23,73,1994,2026,0
+Alexandra Spencer,alexandra_spencer@zewailcity.edu.eg,Mechanical Engineering,3.77,Male,24,129,1998,2026,2
+Sandra Rodgers,sandra_rodgers@zewailcity.edu.eg,Chemistry,2.95,Female,22,73,1998,2027,1
+Ryan Oconnell,ryan_oconnell@zewailcity.edu.eg,Biotechnology,3.32,Male,19,87,2002,2025,7
+Rebecca Wong,rebecca_wong@zewailcity.edu.eg,Computer Science,3.83,Male,25,82,2003,2024,2
+Eric Miller,eric_miller@zewailcity.edu.eg,Chemistry,3.98,Female,24,125,1993,2026,7
+Patrick Palmer,patrick_palmer@zewailcity.edu.eg,Physics,3.98,Male,21,67,2000,2024,9
+Dustin Martinez,dustin_martinez@zewailcity.edu.eg,Mechanical Engineering,1.77,Male,21,128,1990,2027,8
+Samuel Martinez,samuel_martinez@zewailcity.edu.eg,Physics,2.82,Male,25,111,1995,2025,3
+Heather Bush,heather_bush@zewailcity.edu.eg,Computer Science,1.34,Female,24,103,1998,2025,0
+Summer Carroll,summer_carroll@zewailcity.edu.eg,Mechanical Engineering,3.3,Female,24,131,2000,2026,2
+Casey Hodge,casey_hodge@zewailcity.edu.eg,Mathematics,2.02,Female,25,89,1999,2024,9
+Debra Price,debra_price@zewailcity.edu.eg,Mechanical Engineering,3.74,Female,23,73,1996,2026,10
+Michael Garcia,michael_garcia@zewailcity.edu.eg,Computer Science,2.99,Male,25,74,2000,2026,3
+Robert Barnes,robert_barnes@zewailcity.edu.eg,Computer Science,1.78,Male,18,96,1998,2026,10
+Jenny Williams,jenny_williams@zewailcity.edu.eg,Chemistry,1.23,Male,21,97,1994,2027,8
+Kenneth Harris,kenneth_harris@zewailcity.edu.eg,Computer Science,1.4,Male,23,127,2004,2026,5
+Samuel Burns,samuel_burns@zewailcity.edu.eg,Mechanical Engineering,3.96,Female,19,114,2004,2024,4
+David Gross,david_gross@zewailcity.edu.eg,Mathematics,2.08,Male,19,114,1994,2027,7
+Maria Smith,maria_smith@zewailcity.edu.eg,Computer Science,3.58,Male,20,83,2004,2025,8
+Kathleen Carrillo,kathleen_carrillo@zewailcity.edu.eg,Mathematics,3.85,Female,21,104,2002,2027,0
+Kelly Frey,kelly_frey@zewailcity.edu.eg,Biotechnology,3.66,Male,24,84,1993,2025,8
+Joseph Lopez,joseph_lopez@zewailcity.edu.eg,Computer Science,2.15,Female,20,77,1994,2024,10
+Meagan White,meagan_white@zewailcity.edu.eg,Computer Science,1.69,Female,21,149,2004,2027,0
+Jerry Oneill,jerry_oneill@zewailcity.edu.eg,Mechanical Engineering,1.43,Female,18,79,1999,2025,10
+Wendy Rivera,wendy_rivera@zewailcity.edu.eg,Mathematics,2.74,Female,18,101,1995,2024,9
+Micheal Thomas,micheal_thomas@zewailcity.edu.eg,Computer Science,3.69,Female,21,80,1991,2026,3
+David Mccoy,david_mccoy@zewailcity.edu.eg,Mechanical Engineering,3.97,Female,20,130,2002,2025,8
+Michael Salas,michael_salas@zewailcity.edu.eg,Physics,2.2,Female,19,140,2002,2026,7
+Ronald Young,ronald_young@zewailcity.edu.eg,Computer Science,1.5,Female,21,99,1998,2026,3
+Ellen Dickson MD,ellen_dickson_md@zewailcity.edu.eg,Mechanical Engineering,1.26,Male,25,69,2001,2027,6
+John Christensen,john_christensen@zewailcity.edu.eg,Chemistry,2.28,Male,18,75,2002,2025,2
+Julie Gonzales,julie_gonzales@zewailcity.edu.eg,Chemistry,1.58,Male,19,136,1993,2025,2
+Kimberly Hood,kimberly_hood@zewailcity.edu.eg,Computer Science,2.09,Male,21,84,2001,2027,8
+Dustin Campbell,dustin_campbell@zewailcity.edu.eg,Mathematics,3.08,Male,21,85,2003,2026,10
+Christopher Bass,christopher_bass@zewailcity.edu.eg,Biotechnology,3.05,Male,22,136,2001,2026,2
+James Barnes,james_barnes@zewailcity.edu.eg,Computer Science,1.95,Male,21,79,1992,2025,5
+Lynn Rodriguez,lynn_rodriguez@zewailcity.edu.eg,Mechanical Engineering,2.56,Female,21,65,2003,2027,1
+Jesus Randolph,jesus_randolph@zewailcity.edu.eg,Physics,1.34,Male,25,138,1997,2024,3
+Russell Yates,russell_yates@zewailcity.edu.eg,Chemistry,1.91,Male,22,141,1997,2027,6
+Jeremy Ramirez,jeremy_ramirez@zewailcity.edu.eg,Mathematics,1.3,Male,18,123,1994,2026,10
+Theresa Ibarra,theresa_ibarra@zewailcity.edu.eg,Mathematics,3.76,Male,21,137,2002,2027,9
+Patricia Allen,patricia_allen@zewailcity.edu.eg,Chemistry,3.42,Female,24,127,1994,2026,7
+Michael Smith,michael_smith@zewailcity.edu.eg,Mathematics,3.43,Female,24,122,1999,2025,9
+Rodney Ellis,rodney_ellis@zewailcity.edu.eg,Mechanical Engineering,2.5,Female,24,109,1990,2026,8
+Mr. William Diaz,mr._william_diaz@zewailcity.edu.eg,Chemistry,2.79,Male,22,96,1994,2025,8
+Julie Arnold,julie_arnold@zewailcity.edu.eg,Computer Science,3.54,Female,20,128,1998,2027,2
+Linda Scott,linda_scott@zewailcity.edu.eg,Computer Science,2.71,Male,22,104,1995,2025,9
+Shawn Fuentes,shawn_fuentes@zewailcity.edu.eg,Mechanical Engineering,1.29,Male,24,113,2003,2026,2
+Jared Foster,jared_foster@zewailcity.edu.eg,Mechanical Engineering,1.46,Male,23,128,1996,2024,9
+Lisa Williams,lisa_williams@zewailcity.edu.eg,Mechanical Engineering,2.32,Male,22,71,1998,2025,9
+Erika Clarke,erika_clarke@zewailcity.edu.eg,Mechanical Engineering,3.69,Male,21,128,1997,2025,8
+Catherine Peters,catherine_peters@zewailcity.edu.eg,Physics,2.34,Male,21,66,1992,2026,8
+Jonathan Steele,jonathan_steele@zewailcity.edu.eg,Chemistry,2.88,Female,25,149,2003,2024,7
+Gary Evans,gary_evans@zewailcity.edu.eg,Biotechnology,2.63,Male,22,91,1992,2026,0
+Cheryl Serrano,cheryl_serrano@zewailcity.edu.eg,Biotechnology,2.75,Male,21,89,1992,2024,6
+Robert Sandoval,robert_sandoval@zewailcity.edu.eg,Computer Science,3.79,Male,25,60,2004,2027,2
+Margaret Cooper,margaret_cooper@zewailcity.edu.eg,Mechanical Engineering,1.85,Female,23,113,1997,2026,5
+Ryan Atkinson,ryan_atkinson@zewailcity.edu.eg,Mathematics,3.87,Male,21,104,2002,2026,10
+Alyssa Miller,alyssa_miller@zewailcity.edu.eg,Mathematics,3.22,Female,20,75,2003,2027,6
+Brian Rogers,brian_rogers@zewailcity.edu.eg,Physics,3.54,Female,19,129,1995,2026,8
+Morgan Miller,morgan_miller@zewailcity.edu.eg,Mathematics,2.72,Male,18,127,1994,2024,8
+Curtis Hodge,curtis_hodge@zewailcity.edu.eg,Computer Science,3.66,Female,22,113,1995,2026,2
+Scott Richard,scott_richard@zewailcity.edu.eg,Computer Science,2.7,Female,21,139,2003,2026,0
+Kevin Blackburn,kevin_blackburn@zewailcity.edu.eg,Mathematics,3.69,Female,24,89,2002,2025,4
+Jessica Doyle,jessica_doyle@zewailcity.edu.eg,Biotechnology,2.42,Female,22,101,1998,2026,10
+Joan Potter,joan_potter@zewailcity.edu.eg,Mathematics,3.86,Female,21,60,2000,2027,2
+Wayne Williams,wayne_williams@zewailcity.edu.eg,Mechanical Engineering,3.96,Male,21,121,2004,2027,9
+Curtis Gilbert,curtis_gilbert@zewailcity.edu.eg,Computer Science,2.67,Female,24,141,1995,2026,10
+Andrew Crane,andrew_crane@zewailcity.edu.eg,Chemistry,2.54,Female,25,136,1996,2024,1
+Cheryl Wood,cheryl_wood@zewailcity.edu.eg,Mechanical Engineering,1.69,Female,24,135,1999,2025,6
+Hannah Bishop DDS,hannah_bishop_dds@zewailcity.edu.eg,Physics,3.22,Male,18,95,1991,2024,8
+Stacy Allen,stacy_allen@zewailcity.edu.eg,Chemistry,2.34,Male,19,103,1995,2024,0
+Alexander Long,alexander_long@zewailcity.edu.eg,Chemistry,2.01,Male,22,125,1991,2025,0
+Karen Richmond,karen_richmond@zewailcity.edu.eg,Chemistry,2.01,Female,21,64,2000,2024,5
+Lori Taylor,lori_taylor@zewailcity.edu.eg,Computer Science,3.09,Male,20,74,1996,2027,8
+Kevin Cordova,kevin_cordova@zewailcity.edu.eg,Mechanical Engineering,2.74,Female,20,133,1991,2027,10
+Daniel Brewer,daniel_brewer@zewailcity.edu.eg,Mathematics,1.79,Male,23,96,1993,2027,4
+Jordan Johnston,jordan_johnston@zewailcity.edu.eg,Physics,1.77,Male,25,134,1999,2025,0
+Maurice Gay,maurice_gay@zewailcity.edu.eg,Computer Science,2.75,Male,24,78,1998,2026,8
+Richard Howard,richard_howard@zewailcity.edu.eg,Mathematics,3.45,Female,24,146,1997,2027,2
+Michael Carpenter,michael_carpenter@zewailcity.edu.eg,Mechanical Engineering,1.94,Male,19,87,1990,2027,5
+Bryan Ross,bryan_ross@zewailcity.edu.eg,Biotechnology,2.53,Male,24,128,1997,2027,4
+Jeffrey Nicholson,jeffrey_nicholson@zewailcity.edu.eg,Mechanical Engineering,2.73,Female,19,76,1999,2026,0
+Anna Sanchez,anna_sanchez@zewailcity.edu.eg,Physics,3.75,Male,24,108,1995,2026,3
+Crystal Holt,crystal_holt@zewailcity.edu.eg,Biotechnology,3.53,Male,23,98,2004,2024,10
+Alyssa Richardson,alyssa_richardson@zewailcity.edu.eg,Mechanical Engineering,2.58,Female,23,131,1990,2025,1
+Michael Logan,michael_logan@zewailcity.edu.eg,Mathematics,1.31,Female,23,100,2001,2024,6
+Jeffrey Ward,jeffrey_ward@zewailcity.edu.eg,Physics,3.73,Female,18,125,1997,2026,9
+Darin Yates,darin_yates@zewailcity.edu.eg,Physics,3.63,Male,23,68,1990,2026,0
+Joseph Martin,joseph_martin@zewailcity.edu.eg,Biotechnology,2.03,Female,23,104,1999,2027,0
+Christina Jackson,christina_jackson@zewailcity.edu.eg,Mathematics,2.25,Female,19,139,1998,2026,9
+Paul Ramirez,paul_ramirez@zewailcity.edu.eg,Physics,3.72,Male,23,122,1994,2027,4
+Angelica Sanders,angelica_sanders@zewailcity.edu.eg,Mathematics,3.96,Female,22,87,1995,2025,1
+Donald Gomez,donald_gomez@zewailcity.edu.eg,Chemistry,3.1,Male,25,120,1993,2027,4
+Amber Berry,amber_berry@zewailcity.edu.eg,Mathematics,1.44,Female,24,81,2002,2025,6
+Rachel Hernandez,rachel_hernandez@zewailcity.edu.eg,Mechanical Engineering,3.26,Female,19,134,2003,2027,10
+Ryan Watkins,ryan_watkins@zewailcity.edu.eg,Mathematics,1.78,Male,24,144,1992,2027,0
+Tracy Webb MD,tracy_webb_md@zewailcity.edu.eg,Computer Science,2.29,Female,24,62,2002,2024,7
+Elizabeth Clark,elizabeth_clark@zewailcity.edu.eg,Mechanical Engineering,1.64,Male,22,88,2002,2025,9
+Kara Roberts,kara_roberts@zewailcity.edu.eg,Mathematics,2.48,Female,19,139,2003,2026,5
+Jasmine Brown,jasmine_brown@zewailcity.edu.eg,Chemistry,3.03,Female,21,112,2004,2027,6
+Jason Campbell,jason_campbell@zewailcity.edu.eg,Chemistry,1.91,Female,19,79,1992,2027,3
+Kevin Caldwell,kevin_caldwell@zewailcity.edu.eg,Biotechnology,2.44,Female,21,128,1994,2025,1
+Michael Harris,michael_harris@zewailcity.edu.eg,Mathematics,3.64,Female,19,140,2001,2025,6
+Katherine Castaneda,katherine_castaneda@zewailcity.edu.eg,Physics,1.94,Male,19,109,1993,2025,2
+Paul Lyons,paul_lyons@zewailcity.edu.eg,Physics,3.74,Female,25,134,1995,2027,8
+Allen Trevino,allen_trevino@zewailcity.edu.eg,Mechanical Engineering,3.7,Female,21,76,1999,2024,6
+Jasmine Campbell,jasmine_campbell@zewailcity.edu.eg,Mathematics,2.27,Female,19,80,1993,2024,6
+Victor Rivera,victor_rivera@zewailcity.edu.eg,Biotechnology,2.9,Male,19,125,1990,2024,5
+Ronald Herman,ronald_herman@zewailcity.edu.eg,Physics,1.83,Female,19,109,1996,2024,5
+Matthew Torres,matthew_torres@zewailcity.edu.eg,Physics,3.3,Female,24,101,1990,2024,7
+Joshua Palmer,joshua_palmer@zewailcity.edu.eg,Computer Science,3.91,Male,23,125,1997,2026,5
+Thomas Hale,thomas_hale@zewailcity.edu.eg,Physics,1.66,Male,20,90,1990,2027,8
+Aaron Davis,aaron_davis@zewailcity.edu.eg,Mechanical Engineering,1.29,Male,25,111,1990,2025,1
+Sharon Patel,sharon_patel@zewailcity.edu.eg,Mathematics,3.17,Female,19,147,2002,2025,3
+Maria Bradford,maria_bradford@zewailcity.edu.eg,Physics,3.42,Female,24,105,2002,2025,7
+Amanda Gould,amanda_gould@zewailcity.edu.eg,Physics,3.81,Male,23,92,1993,2026,5
+Natalie Ray,natalie_ray@zewailcity.edu.eg,Chemistry,2.86,Female,18,100,2001,2027,0
+Calvin Robertson,calvin_robertson@zewailcity.edu.eg,Physics,3.74,Male,25,84,1992,2027,1
+Adam Taylor,adam_taylor@zewailcity.edu.eg,Mathematics,1.33,Male,23,88,1995,2027,9
+Jack Kim,jack_kim@zewailcity.edu.eg,Mathematics,2.54,Female,24,92,1996,2025,5
+Heidi Davis,heidi_davis@zewailcity.edu.eg,Chemistry,1.51,Male,22,98,2002,2027,5
+Justin Frey,justin_frey@zewailcity.edu.eg,Biotechnology,1.9,Male,21,138,2004,2026,6
+Heather Patrick,heather_patrick@zewailcity.edu.eg,Mathematics,3.71,Female,24,83,1992,2026,9
+Bryan Walters,bryan_walters@zewailcity.edu.eg,Chemistry,1.7,Male,18,124,1999,2024,10
+Kimberly Sanford,kimberly_sanford@zewailcity.edu.eg,Chemistry,2.23,Male,22,128,1993,2027,1
+Kristy Jordan,kristy_jordan@zewailcity.edu.eg,Biotechnology,2.09,Male,19,141,2004,2027,7
+Jeffrey Camacho,jeffrey_camacho@zewailcity.edu.eg,Mechanical Engineering,3.96,Female,18,144,1994,2027,3
+Maria Lam,maria_lam@zewailcity.edu.eg,Biotechnology,3.26,Female,20,62,1990,2027,8
+Veronica Lee,veronica_lee@zewailcity.edu.eg,Computer Science,2.57,Male,23,110,1995,2027,7
+Sandra Horne,sandra_horne@zewailcity.edu.eg,Mechanical Engineering,1.95,Female,22,61,1993,2027,3
+Karina Phillips,karina_phillips@zewailcity.edu.eg,Chemistry,1.94,Female,21,63,1997,2024,9
+Melissa Osborne,melissa_osborne@zewailcity.edu.eg,Physics,2.78,Female,23,134,1999,2027,4
+Ian Brown MD,ian_brown_md@zewailcity.edu.eg,Computer Science,2.71,Male,20,81,2000,2025,7
+Joan Pierce,joan_pierce@zewailcity.edu.eg,Physics,2.71,Male,23,140,1996,2024,6
+Joshua Perry,joshua_perry@zewailcity.edu.eg,Biotechnology,2.91,Female,18,147,1990,2024,8
+Victoria Travis,victoria_travis@zewailcity.edu.eg,Computer Science,3.17,Female,21,128,1992,2027,0
+Dennis Glover,dennis_glover@zewailcity.edu.eg,Computer Science,3.74,Female,25,133,1991,2024,4
+Jennifer Harrison,jennifer_harrison@zewailcity.edu.eg,Chemistry,1.9,Male,21,117,1991,2025,0
+Suzanne Johnston,suzanne_johnston@zewailcity.edu.eg,Computer Science,3.06,Female,22,117,1990,2025,7
+Mr. Steven Anderson,mr._steven_anderson@zewailcity.edu.eg,Chemistry,1.64,Male,20,140,1994,2027,1
+Amanda Anderson,amanda_anderson@zewailcity.edu.eg,Biotechnology,1.96,Male,23,62,1997,2024,0
+Donna Villarreal,donna_villarreal@zewailcity.edu.eg,Chemistry,1.77,Male,23,142,2003,2025,0
+Steven Hicks,steven_hicks@zewailcity.edu.eg,Chemistry,2.99,Female,23,112,1991,2025,10
+Ashley Anderson,ashley_anderson@zewailcity.edu.eg,Mechanical Engineering,1.89,Female,18,139,2003,2025,4
+James Jones,james_jones@zewailcity.edu.eg,Biotechnology,3.35,Female,24,140,1998,2025,6
+Luis Moore,luis_moore@zewailcity.edu.eg,Physics,2.85,Female,20,104,2003,2024,6
+David Chandler,david_chandler@zewailcity.edu.eg,Biotechnology,2.82,Male,24,134,1996,2025,0
+William Ramos,william_ramos@zewailcity.edu.eg,Computer Science,3.57,Female,20,112,2003,2026,8
+Peter Hawkins,peter_hawkins@zewailcity.edu.eg,Chemistry,3.48,Female,23,90,1996,2025,0
+Kristen Chavez,kristen_chavez@zewailcity.edu.eg,Chemistry,2.73,Female,18,142,1995,2026,9
+Natalie Patel,natalie_patel@zewailcity.edu.eg,Biotechnology,3.22,Female,18,106,1997,2024,1
+Cody Cannon,cody_cannon@zewailcity.edu.eg,Computer Science,1.99,Female,25,140,1997,2024,4
+Cheryl Parker DDS,cheryl_parker_dds@zewailcity.edu.eg,Computer Science,3.11,Male,22,70,2000,2025,6
+Renee Butler,renee_butler@zewailcity.edu.eg,Mechanical Engineering,3.75,Female,25,69,2003,2027,6
+Dawn Johnson,dawn_johnson@zewailcity.edu.eg,Mathematics,3.64,Female,25,81,1997,2024,7
+Taylor Garcia,taylor_garcia@zewailcity.edu.eg,Mechanical Engineering,2.73,Female,19,146,1992,2027,9
+Mary Duncan,mary_duncan@zewailcity.edu.eg,Computer Science,1.39,Female,25,66,1996,2026,4
+Vanessa Krause,vanessa_krause@zewailcity.edu.eg,Physics,3.18,Female,25,92,1993,2025,10
+Charles Sanders,charles_sanders@zewailcity.edu.eg,Computer Science,2.86,Male,25,149,1992,2027,6
+Jeffery Hall,jeffery_hall@zewailcity.edu.eg,Mathematics,2.27,Female,19,135,2002,2026,10
+Monica Molina,monica_molina@zewailcity.edu.eg,Mathematics,3.4,Female,18,90,2004,2027,5
+Logan Adams,logan_adams@zewailcity.edu.eg,Computer Science,3.53,Male,24,61,1993,2026,5
+Anthony Valencia,anthony_valencia@zewailcity.edu.eg,Physics,1.98,Male,23,144,2000,2026,7
+Michael Barker,michael_barker@zewailcity.edu.eg,Physics,3.53,Female,22,142,2004,2026,6
+Christopher Smith,christopher_smith@zewailcity.edu.eg,Chemistry,1.59,Female,24,148,1998,2026,9
+Jessica Baldwin,jessica_baldwin@zewailcity.edu.eg,Biotechnology,1.52,Male,23,144,1996,2026,7
+Sheila Thompson,sheila_thompson@zewailcity.edu.eg,Chemistry,3.47,Female,23,71,2002,2024,1
+Jeffrey Flores,jeffrey_flores@zewailcity.edu.eg,Mathematics,1.96,Female,25,92,2003,2027,10
+Franklin Smith,franklin_smith@zewailcity.edu.eg,Chemistry,2.34,Male,18,148,1997,2024,0
+Kelly Benson,kelly_benson@zewailcity.edu.eg,Mathematics,2.36,Male,20,103,1999,2024,4
+Mary Anderson,mary_anderson@zewailcity.edu.eg,Computer Science,2.66,Male,19,114,1991,2027,1
+Randy Herrera,randy_herrera@zewailcity.edu.eg,Biotechnology,2.35,Male,18,95,2003,2027,1
+Ryan Contreras,ryan_contreras@zewailcity.edu.eg,Biotechnology,2.44,Male,23,89,1996,2027,4
+Bryan Mcbride,bryan_mcbride@zewailcity.edu.eg,Physics,1.38,Female,23,128,1997,2025,4
+Emily Cole,emily_cole@zewailcity.edu.eg,Chemistry,1.95,Female,18,60,1990,2027,0
+Cameron Ramos,cameron_ramos@zewailcity.edu.eg,Physics,1.67,Female,21,109,2004,2025,6
+Mario Elliott,mario_elliott@zewailcity.edu.eg,Chemistry,2.73,Male,23,144,2003,2026,9
+Alexandria Thompson,alexandria_thompson@zewailcity.edu.eg,Mechanical Engineering,2.66,Male,24,114,1997,2026,0
+Brittany Johnson,brittany_johnson@zewailcity.edu.eg,Mathematics,3.33,Female,25,116,1991,2027,5
+Francisco Banks,francisco_banks@zewailcity.edu.eg,Biotechnology,3.12,Female,22,134,1992,2024,4
+Stephanie Hanson,stephanie_hanson@zewailcity.edu.eg,Computer Science,3.95,Female,20,103,1993,2024,9
+Paul Berger,paul_berger@zewailcity.edu.eg,Computer Science,3.76,Male,19,66,1999,2026,4
+Rebecca Johnson,rebecca_johnson@zewailcity.edu.eg,Chemistry,3.58,Female,24,106,1998,2026,0
+Jennifer Johnson,jennifer_johnson@zewailcity.edu.eg,Computer Science,2.77,Female,19,68,1993,2027,5
+Robert Moore,robert_moore@zewailcity.edu.eg,Chemistry,3.15,Male,23,131,1998,2027,3
+David Williams,david_williams@zewailcity.edu.eg,Computer Science,3.52,Male,18,103,1992,2026,4
+Bradley Carroll,bradley_carroll@zewailcity.edu.eg,Chemistry,2.01,Female,20,83,1995,2025,2
+Diana Morrow,diana_morrow@zewailcity.edu.eg,Mathematics,3.2,Male,20,78,1990,2025,9
+Joseph Wilson,joseph_wilson@zewailcity.edu.eg,Physics,3.42,Male,19,140,1990,2027,7
+Dylan Stokes,dylan_stokes@zewailcity.edu.eg,Mathematics,3.1,Male,24,82,2003,2026,3
+Madison Smith,madison_smith@zewailcity.edu.eg,Physics,1.89,Female,25,74,1998,2026,9
+Traci Lewis,traci_lewis@zewailcity.edu.eg,Biotechnology,2.26,Female,24,66,1992,2027,1
+Stephanie Cole,stephanie_cole@zewailcity.edu.eg,Mathematics,3.85,Male,22,83,1990,2026,1
+Karen Villa DDS,karen_villa_dds@zewailcity.edu.eg,Physics,2.84,Male,23,130,1990,2024,0
+Maria Jones,maria_jones@zewailcity.edu.eg,Physics,2.9,Male,21,68,1997,2025,1
+Rachel Daniels,rachel_daniels@zewailcity.edu.eg,Chemistry,3.91,Male,20,107,1995,2025,6
+Taylor Robinson,taylor_robinson@zewailcity.edu.eg,Computer Science,1.53,Male,22,88,2000,2025,0
+Mary Davis,mary_davis@zewailcity.edu.eg,Chemistry,3.61,Male,23,148,2001,2024,10
+Krystal Reyes,krystal_reyes@zewailcity.edu.eg,Chemistry,1.59,Female,20,98,1990,2024,3
+Jeremiah Acosta,jeremiah_acosta@zewailcity.edu.eg,Biotechnology,2.4,Male,24,137,2003,2024,4
+Charles Bailey,charles_bailey@zewailcity.edu.eg,Mathematics,2.36,Male,18,65,1994,2027,10
+Susan Hines,susan_hines@zewailcity.edu.eg,Mechanical Engineering,2.93,Male,23,86,1993,2026,0
+Scott Khan,scott_khan@zewailcity.edu.eg,Mechanical Engineering,2.61,Male,23,119,2000,2024,4
+Joseph Gutierrez,joseph_gutierrez@zewailcity.edu.eg,Mechanical Engineering,1.37,Female,22,61,1999,2024,8
+Warren Williams,warren_williams@zewailcity.edu.eg,Mathematics,3.85,Female,20,111,1993,2025,9
+Brooke Martinez,brooke_martinez@zewailcity.edu.eg,Physics,2.49,Female,18,63,1995,2024,2
+Andrew Rodriguez,andrew_rodriguez@zewailcity.edu.eg,Chemistry,3.81,Male,21,93,1996,2024,9
+Christina Powell,christina_powell@zewailcity.edu.eg,Mechanical Engineering,2.68,Male,23,119,1990,2024,4
+Marie Fuentes,marie_fuentes@zewailcity.edu.eg,Mathematics,2.63,Male,25,72,2004,2026,9
+April Wilson,april_wilson@zewailcity.edu.eg,Biotechnology,3.15,Male,24,118,2001,2024,0
+Stacey Flores,stacey_flores@zewailcity.edu.eg,Mathematics,2.01,Female,18,98,1993,2026,10
+Veronica Hunter,veronica_hunter@zewailcity.edu.eg,Chemistry,1.65,Male,23,99,2003,2025,4
+Eddie Chan,eddie_chan@zewailcity.edu.eg,Mechanical Engineering,1.5,Male,19,100,2001,2024,9
+Jacqueline Adams,jacqueline_adams@zewailcity.edu.eg,Computer Science,1.75,Female,23,69,1997,2027,4
+Jeffrey Myers,jeffrey_myers@zewailcity.edu.eg,Physics,2.94,Male,25,73,1999,2024,0
+Michelle Gordon MD,michelle_gordon_md@zewailcity.edu.eg,Mechanical Engineering,3.5,Female,21,103,2004,2024,1
+Brenda Jackson,brenda_jackson@zewailcity.edu.eg,Computer Science,2.17,Female,20,93,1992,2027,3
+Erica Bowen,erica_bowen@zewailcity.edu.eg,Physics,3.7,Female,23,127,1996,2024,1
+Jasmine Houston,jasmine_houston@zewailcity.edu.eg,Mathematics,3.79,Female,25,80,2002,2025,4
+Kathy Robinson,kathy_robinson@zewailcity.edu.eg,Computer Science,3.2,Male,18,121,2002,2024,6
+Jennifer Johnson,jennifer_johnson@zewailcity.edu.eg,Chemistry,2.3,Female,24,136,1992,2025,1
+Cynthia Romero,cynthia_romero@zewailcity.edu.eg,Computer Science,2.14,Female,21,83,1997,2027,5
+Daniel Griffith,daniel_griffith@zewailcity.edu.eg,Biotechnology,2.67,Male,20,107,2000,2026,9
+Jonathan Wilson,jonathan_wilson@zewailcity.edu.eg,Computer Science,2.43,Female,18,143,1996,2025,0
+Stephanie Harris,stephanie_harris@zewailcity.edu.eg,Physics,2.22,Male,18,140,2001,2024,3
+Jennifer Gray,jennifer_gray@zewailcity.edu.eg,Chemistry,3.41,Female,22,94,1994,2027,8
+Alexander Daniel,alexander_daniel@zewailcity.edu.eg,Computer Science,1.76,Male,23,70,2002,2025,7
+Lawrence Perry,lawrence_perry@zewailcity.edu.eg,Mechanical Engineering,2.02,Female,21,67,1991,2026,4
+Raven Avery,raven_avery@zewailcity.edu.eg,Mechanical Engineering,2.96,Female,19,64,1993,2027,7
+Teresa Bailey,teresa_bailey@zewailcity.edu.eg,Mathematics,3.93,Male,22,117,2003,2026,2
+Francisco Bennett,francisco_bennett@zewailcity.edu.eg,Mathematics,2.9,Female,24,95,1999,2026,0
+Robert Hill,robert_hill@zewailcity.edu.eg,Physics,1.89,Male,24,77,1997,2026,2
+Matthew West,matthew_west@zewailcity.edu.eg,Biotechnology,2.53,Male,21,76,1998,2025,3
+James Hatfield,james_hatfield@zewailcity.edu.eg,Computer Science,2.58,Male,18,94,2003,2024,10
+Brandi Kelly,brandi_kelly@zewailcity.edu.eg,Physics,3.03,Female,22,117,1998,2027,6
+Ashley Jackson,ashley_jackson@zewailcity.edu.eg,Physics,2.19,Female,19,66,1996,2024,0
+Scott Juarez,scott_juarez@zewailcity.edu.eg,Chemistry,2.61,Female,25,101,1990,2027,1
+Joseph Wells,joseph_wells@zewailcity.edu.eg,Biotechnology,2.24,Male,21,63,1992,2025,2
+Michael Phillips,michael_phillips@zewailcity.edu.eg,Mathematics,3.96,Male,22,105,2001,2024,0
+Stephanie Martinez,stephanie_martinez@zewailcity.edu.eg,Biotechnology,1.99,Male,22,138,1997,2024,9
+Steven Cruz,steven_cruz@zewailcity.edu.eg,Biotechnology,1.97,Male,25,74,1995,2026,8
+Jacob Johnson,jacob_johnson@zewailcity.edu.eg,Computer Science,3.02,Female,23,61,2002,2027,10
+Scott Henry,scott_henry@zewailcity.edu.eg,Physics,1.89,Female,23,70,1997,2026,8
+Tonya Harris,tonya_harris@zewailcity.edu.eg,Biotechnology,3.66,Male,22,80,2003,2026,10
+Austin Watson,austin_watson@zewailcity.edu.eg,Mechanical Engineering,1.29,Female,22,146,1992,2026,6
+Jon Huynh,jon_huynh@zewailcity.edu.eg,Mechanical Engineering,1.54,Female,24,120,2001,2024,1
+Brandon Pierce,brandon_pierce@zewailcity.edu.eg,Physics,3.62,Male,21,111,1992,2026,10
+Andrea Ross,andrea_ross@zewailcity.edu.eg,Physics,2.03,Male,22,62,1996,2027,2
+Jose Boyd,jose_boyd@zewailcity.edu.eg,Computer Science,2.2,Male,24,72,2002,2026,0
+Jessica Rose,jessica_rose@zewailcity.edu.eg,Computer Science,1.73,Male,23,73,1999,2024,8
+Donald Ruiz,donald_ruiz@zewailcity.edu.eg,Mechanical Engineering,2.48,Female,24,144,1999,2026,3
+Michael Mooney,michael_mooney@zewailcity.edu.eg,Computer Science,1.5,Female,24,141,2002,2027,4
+Rebecca Mendoza,rebecca_mendoza@zewailcity.edu.eg,Physics,2.68,Female,18,129,2000,2025,0
+Ebony Smith,ebony_smith@zewailcity.edu.eg,Biotechnology,3.18,Male,23,95,1995,2026,7
+Jessica Hall,jessica_hall@zewailcity.edu.eg,Physics,3.55,Female,18,135,2001,2027,1
+Bryce Campbell,bryce_campbell@zewailcity.edu.eg,Chemistry,3.29,Male,24,110,2004,2024,8
+Tracy Carson,tracy_carson@zewailcity.edu.eg,Computer Science,3.47,Female,19,61,1994,2027,10
+Ashley Richmond,ashley_richmond@zewailcity.edu.eg,Mechanical Engineering,1.7,Female,22,122,2003,2024,6
+Aaron Garza,aaron_garza@zewailcity.edu.eg,Physics,2.45,Male,22,114,1990,2024,5
+Regina Gardner,regina_gardner@zewailcity.edu.eg,Physics,1.49,Male,24,129,1994,2027,6
+Daniel Green,daniel_green@zewailcity.edu.eg,Computer Science,1.87,Male,20,141,1998,2024,5
+Dominique Anderson,dominique_anderson@zewailcity.edu.eg,Chemistry,2.03,Female,20,98,2000,2026,4
+Tyler Jones,tyler_jones@zewailcity.edu.eg,Physics,1.47,Female,25,78,2003,2025,10
+Jason Quinn,jason_quinn@zewailcity.edu.eg,Mechanical Engineering,3.95,Male,19,119,2004,2026,3
+Nicholas Bennett,nicholas_bennett@zewailcity.edu.eg,Physics,1.96,Male,19,107,1995,2024,8
+Brandon Reeves,brandon_reeves@zewailcity.edu.eg,Mechanical Engineering,1.95,Female,23,66,1995,2025,5
+Erica Miller,erica_miller@zewailcity.edu.eg,Mechanical Engineering,3.51,Male,22,104,1993,2024,1
+Lauren Robinson,lauren_robinson@zewailcity.edu.eg,Biotechnology,2.75,Male,25,74,1991,2024,10
+Jeremy York,jeremy_york@zewailcity.edu.eg,Mathematics,2.92,Male,23,121,1993,2026,8
+Mark Harris,mark_harris@zewailcity.edu.eg,Chemistry,3.14,Male,25,89,1993,2026,8
+Mrs. Heather Stewart DDS,mrs._heather_stewart_dds@zewailcity.edu.eg,Mechanical Engineering,2.41,Male,21,77,2002,2026,10
+Lisa Kelly,lisa_kelly@zewailcity.edu.eg,Chemistry,2.43,Female,23,119,1995,2024,0
+Caitlin Powell,caitlin_powell@zewailcity.edu.eg,Mathematics,2.38,Male,18,77,2000,2026,3
+Joseph Rogers,joseph_rogers@zewailcity.edu.eg,Mathematics,2.34,Male,20,90,1995,2025,8
+Kathleen Garcia,kathleen_garcia@zewailcity.edu.eg,Mathematics,2.22,Female,23,74,2003,2025,7
+Marissa Smith,marissa_smith@zewailcity.edu.eg,Mathematics,3.62,Female,22,73,1996,2026,2
+Dean Taylor,dean_taylor@zewailcity.edu.eg,Physics,2.77,Male,21,110,2001,2027,0
+Amanda Phillips,amanda_phillips@zewailcity.edu.eg,Computer Science,2.55,Female,24,66,2001,2026,8
+Joe Perry,joe_perry@zewailcity.edu.eg,Chemistry,2.81,Male,24,122,2000,2025,1
+Amanda Horn,amanda_horn@zewailcity.edu.eg,Computer Science,2.13,Female,21,76,1992,2024,9
+Shawn Torres,shawn_torres@zewailcity.edu.eg,Mechanical Engineering,3.62,Male,24,133,1999,2026,2
+Joann Gardner,joann_gardner@zewailcity.edu.eg,Biotechnology,2.29,Female,19,117,1991,2027,5
+Catherine Smith,catherine_smith@zewailcity.edu.eg,Biotechnology,3.67,Male,24,134,2000,2024,1
+Jacob Rodriguez,jacob_rodriguez@zewailcity.edu.eg,Computer Science,1.7,Male,18,97,1992,2027,9
+Mary Kennedy,mary_kennedy@zewailcity.edu.eg,Chemistry,1.74,Male,22,96,1990,2027,7
+Darrell Hall,darrell_hall@zewailcity.edu.eg,Mechanical Engineering,1.76,Male,19,67,1992,2027,6
+Jenny Lozano,jenny_lozano@zewailcity.edu.eg,Mathematics,2.87,Female,22,91,2000,2027,1
+Jeremy Andrews,jeremy_andrews@zewailcity.edu.eg,Physics,1.36,Male,24,124,1999,2025,2
+Zachary Gonzalez,zachary_gonzalez@zewailcity.edu.eg,Biotechnology,2.71,Male,25,112,2000,2025,8
+Amy Ochoa,amy_ochoa@zewailcity.edu.eg,Mechanical Engineering,2.83,Male,18,99,2004,2026,8
+Dana Gardner,dana_gardner@zewailcity.edu.eg,Mechanical Engineering,2.42,Male,18,68,2000,2025,1
+Dawn Holmes,dawn_holmes@zewailcity.edu.eg,Biotechnology,1.68,Female,18,60,2004,2027,3
+Jordan Wood,jordan_wood@zewailcity.edu.eg,Biotechnology,3.57,Male,24,136,2001,2027,8
+Edward Smith,edward_smith@zewailcity.edu.eg,Mechanical Engineering,3.37,Female,25,120,1999,2025,9
+Ashley Weaver,ashley_weaver@zewailcity.edu.eg,Chemistry,2.09,Male,23,147,2000,2024,8
+Stephen Woodward,stephen_woodward@zewailcity.edu.eg,Physics,1.85,Female,20,131,1992,2027,4
+Courtney Bryant,courtney_bryant@zewailcity.edu.eg,Mechanical Engineering,3.64,Male,23,83,2002,2026,9
+Cynthia Alvarez,cynthia_alvarez@zewailcity.edu.eg,Mechanical Engineering,1.2,Male,22,148,1994,2024,1
+Hannah Morgan,hannah_morgan@zewailcity.edu.eg,Mechanical Engineering,2.63,Male,21,91,2004,2025,8
+Mrs. Rachel Burgess DVM,mrs._rachel_burgess_dvm@zewailcity.edu.eg,Mathematics,1.36,Female,19,68,1991,2026,7
+Dr. Lisa Sandoval,dr._lisa_sandoval@zewailcity.edu.eg,Mathematics,2.14,Female,22,92,1990,2024,1
+Mia James,mia_james@zewailcity.edu.eg,Physics,2.02,Female,20,81,1994,2025,10
+Katherine Hardy,katherine_hardy@zewailcity.edu.eg,Computer Science,3.19,Female,25,142,2002,2024,0
+Rodney Newton,rodney_newton@zewailcity.edu.eg,Computer Science,1.87,Male,21,117,2001,2025,8
+Jamie Carr,jamie_carr@zewailcity.edu.eg,Computer Science,1.48,Female,18,138,1999,2026,9
+Elizabeth Kaufman,elizabeth_kaufman@zewailcity.edu.eg,Mathematics,3.72,Male,22,131,1999,2024,7
+Michael Martin,michael_martin@zewailcity.edu.eg,Chemistry,1.56,Female,23,140,1995,2024,9
+Kara Schmidt,kara_schmidt@zewailcity.edu.eg,Chemistry,1.26,Female,24,100,1990,2026,8
+Danielle Gutierrez,danielle_gutierrez@zewailcity.edu.eg,Chemistry,1.83,Male,19,77,2000,2025,2
+Lisa Gonzales,lisa_gonzales@zewailcity.edu.eg,Computer Science,2.45,Male,19,110,1995,2024,8
+Brandon Smith,brandon_smith@zewailcity.edu.eg,Computer Science,3.68,Female,23,136,1995,2024,5
+Kimberly Hampton,kimberly_hampton@zewailcity.edu.eg,Mechanical Engineering,3.26,Male,18,73,1994,2024,3
+Jeremy Pineda,jeremy_pineda@zewailcity.edu.eg,Mathematics,1.78,Male,20,98,1992,2024,4
+Vanessa Smith,vanessa_smith@zewailcity.edu.eg,Mathematics,2.08,Female,21,76,2000,2024,8
+Angela Gutierrez,angela_gutierrez@zewailcity.edu.eg,Biotechnology,3.61,Male,22,61,1990,2025,0
+Sarah Wright,sarah_wright@zewailcity.edu.eg,Computer Science,1.4,Female,22,61,1995,2025,3
+Richard Foster,richard_foster@zewailcity.edu.eg,Mechanical Engineering,1.42,Male,19,136,1999,2025,7
+John Carter,john_carter@zewailcity.edu.eg,Chemistry,1.79,Female,18,105,1997,2024,8
+Sandra Short,sandra_short@zewailcity.edu.eg,Mathematics,2.76,Male,25,99,1992,2024,7
+Patrick Cruz,patrick_cruz@zewailcity.edu.eg,Chemistry,2.07,Male,23,62,1996,2024,4
+Richard Thomas,richard_thomas@zewailcity.edu.eg,Chemistry,1.59,Female,21,121,1995,2024,2
+Susan Smith,susan_smith@zewailcity.edu.eg,Biotechnology,3.94,Male,20,60,1994,2027,6
+Andrea Jordan,andrea_jordan@zewailcity.edu.eg,Biotechnology,1.36,Male,23,132,2000,2025,1
+Xavier Warren,xavier_warren@zewailcity.edu.eg,Computer Science,2.59,Male,25,90,1991,2025,5
+Valerie Spencer,valerie_spencer@zewailcity.edu.eg,Chemistry,2.21,Male,23,104,2003,2025,7
+Candice Baxter,candice_baxter@zewailcity.edu.eg,Mathematics,3.25,Female,23,134,1991,2027,8
+Michelle Price,michelle_price@zewailcity.edu.eg,Biotechnology,1.22,Female,20,120,1991,2025,2
+Michael Rowe,michael_rowe@zewailcity.edu.eg,Biotechnology,2.94,Female,23,96,2001,2026,3
+Brandy Wade,brandy_wade@zewailcity.edu.eg,Biotechnology,2.86,Male,23,112,2000,2025,10
+Christopher Roman,christopher_roman@zewailcity.edu.eg,Computer Science,1.35,Female,21,97,1994,2027,0
+Amber Rivera,amber_rivera@zewailcity.edu.eg,Computer Science,3.5,Male,19,103,1995,2025,10
+Stephanie Kelly,stephanie_kelly@zewailcity.edu.eg,Physics,1.82,Female,18,78,1994,2025,3
+Nathan Gonzalez,nathan_gonzalez@zewailcity.edu.eg,Computer Science,1.74,Female,22,78,2000,2024,6
+Steve Kelley,steve_kelley@zewailcity.edu.eg,Biotechnology,2.24,Female,19,96,2003,2025,1
+Jacqueline Robinson,jacqueline_robinson@zewailcity.edu.eg,Mechanical Engineering,1.51,Female,19,101,1995,2024,5
+Kent Lowe,kent_lowe@zewailcity.edu.eg,Mathematics,3.47,Female,25,70,1990,2024,5
+Jordan Martin,jordan_martin@zewailcity.edu.eg,Mathematics,2.96,Male,25,94,2003,2024,10
+Alyssa Ramirez,alyssa_ramirez@zewailcity.edu.eg,Mathematics,2.65,Male,18,145,1999,2025,2
+Robin Schroeder,robin_schroeder@zewailcity.edu.eg,Computer Science,2.32,Male,22,144,1991,2026,1
+Brian Bradford,brian_bradford@zewailcity.edu.eg,Biotechnology,1.55,Female,21,122,1999,2025,6
+Stephen Atkins,stephen_atkins@zewailcity.edu.eg,Biotechnology,2.43,Female,24,100,1997,2024,9
+Alex Osborne,alex_osborne@zewailcity.edu.eg,Physics,2.69,Male,19,77,2003,2024,1
+Shelly Duffy,shelly_duffy@zewailcity.edu.eg,Mathematics,3.15,Male,20,85,2003,2027,8
+Ms. Destiny Morrow MD,ms._destiny_morrow_md@zewailcity.edu.eg,Computer Science,4.0,Male,23,73,1996,2026,9
+Dillon Collins,dillon_collins@zewailcity.edu.eg,Chemistry,3.58,Male,20,90,2002,2025,9
+Margaret Reed,margaret_reed@zewailcity.edu.eg,Mathematics,3.1,Female,21,126,1993,2025,8
+Renee Barrett,renee_barrett@zewailcity.edu.eg,Computer Science,3.11,Male,21,84,2000,2026,4
+Brandy Edwards,brandy_edwards@zewailcity.edu.eg,Biotechnology,3.06,Male,25,83,1998,2024,4
+Anthony Barrett,anthony_barrett@zewailcity.edu.eg,Chemistry,2.33,Female,24,85,2003,2027,6
+Lisa Daniels,lisa_daniels@zewailcity.edu.eg,Mechanical Engineering,3.69,Male,24,143,1991,2026,1
+Jamie Brown,jamie_brown@zewailcity.edu.eg,Biotechnology,3.82,Female,24,122,1992,2027,5
+Elizabeth Murray,elizabeth_murray@zewailcity.edu.eg,Mechanical Engineering,3.69,Male,22,109,1994,2027,7
+Melissa Brown,melissa_brown@zewailcity.edu.eg,Physics,2.0,Male,25,80,2004,2024,10
+Bryan Conrad,bryan_conrad@zewailcity.edu.eg,Physics,2.29,Female,22,79,2001,2027,10
+Michael Marquez,michael_marquez@zewailcity.edu.eg,Biotechnology,2.4,Male,20,97,2004,2025,3
+Angela Watson,angela_watson@zewailcity.edu.eg,Physics,3.06,Female,25,146,1990,2024,9
+Jessica Hartman,jessica_hartman@zewailcity.edu.eg,Mechanical Engineering,3.9,Male,19,101,1990,2026,8
+Jesse Sanchez,jesse_sanchez@zewailcity.edu.eg,Chemistry,1.84,Male,23,95,1990,2027,0
+Terry White,terry_white@zewailcity.edu.eg,Mechanical Engineering,3.43,Female,20,100,1994,2027,1
+Richard Roy,richard_roy@zewailcity.edu.eg,Mechanical Engineering,2.66,Male,20,124,1990,2027,5
+Leslie Ramirez,leslie_ramirez@zewailcity.edu.eg,Mathematics,3.72,Female,22,125,1992,2025,0
+Robin Tapia,robin_tapia@zewailcity.edu.eg,Biotechnology,3.53,Female,19,149,1998,2027,3
+Albert Gutierrez,albert_gutierrez@zewailcity.edu.eg,Mathematics,3.86,Male,20,71,1997,2025,9
+Jamie Rogers,jamie_rogers@zewailcity.edu.eg,Computer Science,1.83,Male,22,102,1995,2024,6
+Robert Tran,robert_tran@zewailcity.edu.eg,Mathematics,2.61,Male,19,149,1996,2026,6
+Melissa Williams,melissa_williams@zewailcity.edu.eg,Biotechnology,3.13,Female,23,138,1994,2024,4
+John Medina PhD,john_medina_phd@zewailcity.edu.eg,Mechanical Engineering,3.3,Female,22,60,1991,2024,4
+Antonio Richardson,antonio_richardson@zewailcity.edu.eg,Biotechnology,3.6,Female,23,72,1991,2024,9
+Stephanie Jimenez,stephanie_jimenez@zewailcity.edu.eg,Mathematics,2.58,Female,22,135,2001,2026,4
+Shannon Taylor DVM,shannon_taylor_dvm@zewailcity.edu.eg,Mechanical Engineering,3.2,Male,25,112,1999,2026,1
+Kathleen Vang,kathleen_vang@zewailcity.edu.eg,Computer Science,3.2,Female,22,100,2004,2026,5
+Nancy Thompson,nancy_thompson@zewailcity.edu.eg,Biotechnology,2.8,Male,25,84,2003,2024,2
+Brianna Mills,brianna_mills@zewailcity.edu.eg,Mathematics,1.95,Male,25,75,1994,2024,5
+Sheri Scott,sheri_scott@zewailcity.edu.eg,Computer Science,3.42,Female,20,64,1995,2024,4
+Craig Keller,craig_keller@zewailcity.edu.eg,Computer Science,2.42,Male,23,85,1995,2024,4
+Christopher Jackson,christopher_jackson@zewailcity.edu.eg,Chemistry,1.31,Female,20,121,1999,2026,10
+Whitney Holloway,whitney_holloway@zewailcity.edu.eg,Chemistry,1.67,Female,18,124,1992,2025,4
+Kimberly Erickson,kimberly_erickson@zewailcity.edu.eg,Computer Science,1.42,Male,19,132,1997,2026,1
+Rebecca Huerta,rebecca_huerta@zewailcity.edu.eg,Mechanical Engineering,2.86,Female,24,114,2001,2025,10
+Michael Jimenez,michael_jimenez@zewailcity.edu.eg,Chemistry,3.44,Male,18,66,1992,2026,9
+Erika Cooke,erika_cooke@zewailcity.edu.eg,Computer Science,2.56,Male,23,82,1990,2024,6
+Teresa Yang,teresa_yang@zewailcity.edu.eg,Mathematics,2.81,Male,22,67,1999,2027,5
+Jennifer Ruiz,jennifer_ruiz@zewailcity.edu.eg,Physics,3.78,Male,18,89,2003,2025,0
+Mary Weeks,mary_weeks@zewailcity.edu.eg,Mathematics,2.47,Female,19,105,1991,2024,5
+Patrick Johnson,patrick_johnson@zewailcity.edu.eg,Computer Science,3.61,Female,19,91,2004,2025,5
+Sean Reyes,sean_reyes@zewailcity.edu.eg,Biotechnology,2.01,Female,19,142,2002,2027,10
+Michelle Lutz,michelle_lutz@zewailcity.edu.eg,Mechanical Engineering,3.7,Female,21,88,1997,2027,9
+Charles Welch Jr.,charles_welch_jr.@zewailcity.edu.eg,Chemistry,3.93,Male,24,97,1991,2025,8
+Jeremy Nguyen,jeremy_nguyen@zewailcity.edu.eg,Mathematics,1.26,Female,18,121,1998,2026,9
+Douglas Davis Jr.,douglas_davis_jr.@zewailcity.edu.eg,Mathematics,3.81,Male,21,104,1990,2026,3
+Eric Raymond,eric_raymond@zewailcity.edu.eg,Biotechnology,1.31,Female,18,76,2000,2026,5
+Victor Rice,victor_rice@zewailcity.edu.eg,Mechanical Engineering,1.35,Male,22,136,2002,2027,8
+Jill Mcgrath,jill_mcgrath@zewailcity.edu.eg,Mathematics,2.79,Female,25,67,1995,2025,7
+Felicia Riggs,felicia_riggs@zewailcity.edu.eg,Physics,2.26,Female,23,121,1990,2024,8
+Steven Todd,steven_todd@zewailcity.edu.eg,Computer Science,3.46,Male,18,89,1992,2027,3
+Ashley Medina,ashley_medina@zewailcity.edu.eg,Mathematics,1.42,Male,24,78,1999,2026,5
+Peter Valenzuela,peter_valenzuela@zewailcity.edu.eg,Mechanical Engineering,1.32,Male,20,132,2000,2027,7
+Catherine May,catherine_may@zewailcity.edu.eg,Mechanical Engineering,1.3,Female,18,84,1998,2027,5
+Kathryn King,kathryn_king@zewailcity.edu.eg,Mechanical Engineering,3.02,Female,22,133,2002,2025,6
+Michael Leon,michael_leon@zewailcity.edu.eg,Biotechnology,1.9,Female,22,121,1999,2024,10
+Michael Dennis,michael_dennis@zewailcity.edu.eg,Mechanical Engineering,3.62,Female,21,136,1997,2025,5
+Rachel Higgins,rachel_higgins@zewailcity.edu.eg,Biotechnology,2.35,Male,18,130,2000,2025,3
+Mary Dunn,mary_dunn@zewailcity.edu.eg,Chemistry,3.52,Male,25,80,2004,2027,7
+Lori Young,lori_young@zewailcity.edu.eg,Computer Science,1.8,Female,18,79,1997,2025,2
+Robyn Orr,robyn_orr@zewailcity.edu.eg,Physics,3.6,Female,19,124,1996,2024,8
+Danielle Anderson,danielle_anderson@zewailcity.edu.eg,Physics,2.6,Female,20,103,1995,2027,2
+Victoria Miller,victoria_miller@zewailcity.edu.eg,Mathematics,1.36,Male,22,70,2002,2024,7
+Rebecca Young,rebecca_young@zewailcity.edu.eg,Chemistry,1.83,Male,24,61,2002,2025,2
+Teresa Stein,teresa_stein@zewailcity.edu.eg,Mechanical Engineering,2.82,Male,22,73,2000,2026,2
+Brady David,brady_david@zewailcity.edu.eg,Chemistry,3.07,Male,24,91,2004,2027,2
+Thomas Hodges,thomas_hodges@zewailcity.edu.eg,Chemistry,1.26,Female,25,98,2003,2024,6
+Holly Kelley,holly_kelley@zewailcity.edu.eg,Biotechnology,3.51,Female,19,150,1999,2024,4
+John Reynolds,john_reynolds@zewailcity.edu.eg,Mathematics,1.99,Male,25,95,1992,2027,6
+Brianna Goodman,brianna_goodman@zewailcity.edu.eg,Computer Science,3.48,Female,18,107,1998,2026,4
+Thomas Foster,thomas_foster@zewailcity.edu.eg,Computer Science,3.68,Female,23,111,2000,2025,5
+Jeffrey Warner,jeffrey_warner@zewailcity.edu.eg,Computer Science,2.47,Male,20,90,2000,2025,1
+Jeffrey Carson,jeffrey_carson@zewailcity.edu.eg,Computer Science,1.49,Male,19,82,1990,2025,10
+Sara Estrada,sara_estrada@zewailcity.edu.eg,Biotechnology,3.99,Female,22,64,1993,2024,2
+Matthew Hart,matthew_hart@zewailcity.edu.eg,Mechanical Engineering,1.83,Male,20,84,1997,2026,5
+Shawn Johnson,shawn_johnson@zewailcity.edu.eg,Chemistry,1.69,Female,24,146,1998,2027,2
+Mark Gonzales,mark_gonzales@zewailcity.edu.eg,Mathematics,1.73,Female,18,106,1994,2026,0
+Joshua Brooks,joshua_brooks@zewailcity.edu.eg,Chemistry,1.45,Female,21,150,1993,2027,4
+Melissa Miller,melissa_miller@zewailcity.edu.eg,Biotechnology,1.7,Male,21,115,1995,2025,0
+Daniel Shannon,daniel_shannon@zewailcity.edu.eg,Biotechnology,1.22,Male,25,93,1990,2026,5
+Dr. Thomas Marks,dr._thomas_marks@zewailcity.edu.eg,Biotechnology,1.71,Female,25,69,1995,2025,7
+Martin Bryant,martin_bryant@zewailcity.edu.eg,Mathematics,3.01,Male,23,105,1992,2025,1
+Jessica Brooks,jessica_brooks@zewailcity.edu.eg,Mathematics,2.83,Male,19,82,1999,2027,8
+Pamela Huff,pamela_huff@zewailcity.edu.eg,Computer Science,1.52,Male,22,95,1994,2027,4
+John Gallegos,john_gallegos@zewailcity.edu.eg,Mathematics,3.75,Female,20,123,1991,2026,2
+Tammy Fuller,tammy_fuller@zewailcity.edu.eg,Chemistry,2.2,Male,22,79,2002,2027,9
+Eric Brown,eric_brown@zewailcity.edu.eg,Mathematics,2.92,Male,22,134,2004,2025,6
+Amber Harrell,amber_harrell@zewailcity.edu.eg,Biotechnology,2.58,Male,18,142,2004,2024,1
+Margaret Bates,margaret_bates@zewailcity.edu.eg,Biotechnology,3.33,Female,22,105,1995,2024,9
+Jill Miller,jill_miller@zewailcity.edu.eg,Mathematics,1.45,Male,24,79,1993,2026,9
+Jeffrey Munoz,jeffrey_munoz@zewailcity.edu.eg,Computer Science,3.08,Male,22,71,1992,2026,2
+Gregory Roy,gregory_roy@zewailcity.edu.eg,Computer Science,1.99,Male,19,78,1998,2027,2
+Lucas Welch,lucas_welch@zewailcity.edu.eg,Computer Science,3.4,Female,25,73,1996,2024,10
+Tami Martin,tami_martin@zewailcity.edu.eg,Computer Science,1.25,Female,18,101,1996,2026,1
+Lauren Stewart,lauren_stewart@zewailcity.edu.eg,Mechanical Engineering,2.35,Male,25,94,1993,2025,3
+Daisy Cole,daisy_cole@zewailcity.edu.eg,Mathematics,1.9,Male,24,121,1996,2027,9
+Steven Moore,steven_moore@zewailcity.edu.eg,Biotechnology,1.92,Female,22,131,2000,2025,4
+Sarah Burns,sarah_burns@zewailcity.edu.eg,Physics,1.72,Male,20,147,1997,2027,4
+Maureen Bass,maureen_bass@zewailcity.edu.eg,Physics,3.79,Male,20,114,1990,2027,0
+Julie Harris,julie_harris@zewailcity.edu.eg,Physics,1.21,Male,20,72,2004,2024,2
+Scott Carey,scott_carey@zewailcity.edu.eg,Biotechnology,1.97,Male,21,101,2002,2026,5
+Jason Wilson,jason_wilson@zewailcity.edu.eg,Computer Science,2.54,Male,19,134,1997,2027,5
+Kayla Daniels,kayla_daniels@zewailcity.edu.eg,Physics,1.61,Female,19,111,2002,2027,10
+Robert Terrell,robert_terrell@zewailcity.edu.eg,Computer Science,3.93,Male,22,104,1998,2025,2
+Jane Porter,jane_porter@zewailcity.edu.eg,Mechanical Engineering,3.69,Female,21,147,1995,2027,5
+Martin Clark,martin_clark@zewailcity.edu.eg,Mathematics,1.91,Male,21,112,2001,2027,5
+Amanda Schwartz,amanda_schwartz@zewailcity.edu.eg,Biotechnology,3.1,Female,19,137,2000,2027,9
+Ashley Knight,ashley_knight@zewailcity.edu.eg,Physics,3.8,Male,24,130,2003,2027,1
+Willie Christensen,willie_christensen@zewailcity.edu.eg,Physics,2.21,Male,23,98,1990,2026,10
+Robert Kaufman,robert_kaufman@zewailcity.edu.eg,Physics,1.22,Female,23,121,1991,2026,3
+Karl Payne,karl_payne@zewailcity.edu.eg,Computer Science,3.84,Male,19,116,2000,2024,0
+Megan Bailey,megan_bailey@zewailcity.edu.eg,Mechanical Engineering,1.36,Male,21,73,1999,2027,2
+Erik Martinez,erik_martinez@zewailcity.edu.eg,Mathematics,3.97,Female,23,61,1995,2024,5
+Danielle Olson,danielle_olson@zewailcity.edu.eg,Mathematics,3.57,Male,20,116,2001,2026,2
+Lisa Spencer,lisa_spencer@zewailcity.edu.eg,Mathematics,2.58,Female,19,62,1998,2024,6
+Jonathan Carter,jonathan_carter@zewailcity.edu.eg,Mathematics,3.4,Male,20,101,2004,2027,2
+Andrew Francis,andrew_francis@zewailcity.edu.eg,Mathematics,2.99,Female,25,117,2003,2024,8
+Nicole Lindsey,nicole_lindsey@zewailcity.edu.eg,Mechanical Engineering,3.72,Male,19,137,2003,2027,6
+Madison Lawrence,madison_lawrence@zewailcity.edu.eg,Mathematics,3.22,Male,22,69,1994,2026,7
+Andrew Blanchard,andrew_blanchard@zewailcity.edu.eg,Chemistry,1.76,Male,24,99,2004,2024,8
+Linda Cox,linda_cox@zewailcity.edu.eg,Computer Science,3.13,Male,19,92,1996,2025,5
+Jane Lewis,jane_lewis@zewailcity.edu.eg,Mechanical Engineering,3.55,Male,18,106,1994,2026,3
+Lisa Richards,lisa_richards@zewailcity.edu.eg,Computer Science,3.02,Female,24,61,2003,2026,1
+Jennifer Combs,jennifer_combs@zewailcity.edu.eg,Mechanical Engineering,3.95,Female,18,75,2003,2025,5
+Dr. Amber Moore DDS,dr._amber_moore_dds@zewailcity.edu.eg,Mathematics,3.02,Male,22,84,1992,2024,6
+Chelsea Deleon,chelsea_deleon@zewailcity.edu.eg,Chemistry,1.45,Male,22,146,1999,2024,7
+Ashley Warren,ashley_warren@zewailcity.edu.eg,Physics,3.43,Female,22,66,2003,2024,4
+Jenna Nelson,jenna_nelson@zewailcity.edu.eg,Chemistry,3.82,Male,24,145,1990,2025,9
+Taylor Wood,taylor_wood@zewailcity.edu.eg,Physics,2.58,Male,18,105,1993,2025,7
+Ethan Lam,ethan_lam@zewailcity.edu.eg,Mechanical Engineering,3.69,Male,18,66,1997,2024,9
+Kim Allen,kim_allen@zewailcity.edu.eg,Chemistry,2.67,Female,22,74,1994,2024,0
+Mary Kennedy,mary_kennedy@zewailcity.edu.eg,Mathematics,1.73,Female,23,94,2002,2027,4
+Tracy Jackson,tracy_jackson@zewailcity.edu.eg,Chemistry,1.57,Female,25,128,2000,2027,10
+George Mcguire,george_mcguire@zewailcity.edu.eg,Computer Science,1.22,Female,25,131,2004,2027,1
+Joshua Hall,joshua_hall@zewailcity.edu.eg,Biotechnology,2.76,Female,24,79,1997,2027,1
+Benjamin Cruz,benjamin_cruz@zewailcity.edu.eg,Mechanical Engineering,1.71,Female,18,141,2000,2025,1
+Brandon Bryant,brandon_bryant@zewailcity.edu.eg,Physics,2.77,Female,21,91,1996,2024,5
+Nancy Harrington,nancy_harrington@zewailcity.edu.eg,Physics,3.4,Male,19,132,1997,2024,1
+Tammy Duncan,tammy_duncan@zewailcity.edu.eg,Mechanical Engineering,3.19,Female,22,102,1998,2025,6
+James Montgomery,james_montgomery@zewailcity.edu.eg,Mathematics,1.82,Male,22,105,2004,2026,5
+Christopher Lewis,christopher_lewis@zewailcity.edu.eg,Biotechnology,3.11,Male,19,108,1993,2024,0
+Anthony Murray,anthony_murray@zewailcity.edu.eg,Biotechnology,1.61,Female,20,119,2002,2026,4
+Shannon Hart,shannon_hart@zewailcity.edu.eg,Mathematics,3.79,Male,20,103,1994,2025,0
+Jacob Brown,jacob_brown@zewailcity.edu.eg,Mechanical Engineering,3.41,Male,23,86,1991,2027,5
+Shannon Sanders,shannon_sanders@zewailcity.edu.eg,Biotechnology,3.62,Female,19,98,2004,2024,2
+Mary Medina,mary_medina@zewailcity.edu.eg,Mathematics,2.3,Male,23,121,2000,2027,0
+Timothy Mayer,timothy_mayer@zewailcity.edu.eg,Mathematics,2.5,Female,18,94,1996,2026,4
+Elizabeth Wright,elizabeth_wright@zewailcity.edu.eg,Computer Science,1.56,Female,23,113,1997,2027,10
+Mr. Stanley Edwards DVM,mr._stanley_edwards_dvm@zewailcity.edu.eg,Mechanical Engineering,1.56,Male,18,140,2000,2026,0
+Alison Brown,alison_brown@zewailcity.edu.eg,Biotechnology,2.85,Male,24,138,2004,2026,4
+Nicole Johnson,nicole_johnson@zewailcity.edu.eg,Physics,3.92,Male,20,71,1996,2027,9
+Gerald Dominguez,gerald_dominguez@zewailcity.edu.eg,Mathematics,1.57,Male,19,128,1997,2025,4
+Debra Roy,debra_roy@zewailcity.edu.eg,Computer Science,3.92,Female,19,112,2002,2024,1
+Gary Cross,gary_cross@zewailcity.edu.eg,Mechanical Engineering,1.2,Male,18,128,1992,2026,0
+Beth Mosley,beth_mosley@zewailcity.edu.eg,Mathematics,2.49,Male,25,125,2000,2027,0
+Cody Hendrix,cody_hendrix@zewailcity.edu.eg,Mechanical Engineering,2.7,Female,18,69,1995,2024,6
+Patrick Bird,patrick_bird@zewailcity.edu.eg,Biotechnology,2.8,Female,18,150,2002,2026,3
+John Simpson,john_simpson@zewailcity.edu.eg,Chemistry,3.41,Female,18,138,2000,2026,4
+Lauren Nash,lauren_nash@zewailcity.edu.eg,Chemistry,2.52,Male,24,130,1993,2026,9
+Joe Shaw MD,joe_shaw_md@zewailcity.edu.eg,Mathematics,3.85,Male,18,101,1998,2027,6
+Phillip Peterson,phillip_peterson@zewailcity.edu.eg,Physics,2.78,Female,19,143,1991,2024,4
+Shelly Wright,shelly_wright@zewailcity.edu.eg,Mechanical Engineering,1.4,Female,21,97,2000,2026,2
+Linda Coleman,linda_coleman@zewailcity.edu.eg,Biotechnology,1.95,Male,25,150,1995,2024,10
+Stephanie Coleman,stephanie_coleman@zewailcity.edu.eg,Chemistry,3.68,Female,23,96,1996,2024,4
+Joshua Diaz,joshua_diaz@zewailcity.edu.eg,Biotechnology,2.13,Female,25,149,1992,2027,0
+Beverly Graham,beverly_graham@zewailcity.edu.eg,Mechanical Engineering,3.81,Male,23,104,1995,2026,2
+Joseph Davis,joseph_davis@zewailcity.edu.eg,Chemistry,2.69,Female,22,150,2000,2027,3
+Richard Cunningham,richard_cunningham@zewailcity.edu.eg,Computer Science,3.7,Female,20,135,2001,2025,3
+Abigail Chavez,abigail_chavez@zewailcity.edu.eg,Mechanical Engineering,3.27,Female,20,123,1991,2026,4
+Paul Reed,paul_reed@zewailcity.edu.eg,Biotechnology,2.66,Male,21,130,1997,2027,6
+Jesse Hill,jesse_hill@zewailcity.edu.eg,Biotechnology,2.05,Female,20,98,1996,2025,4
+Jordan Montgomery,jordan_montgomery@zewailcity.edu.eg,Chemistry,3.48,Male,20,79,1999,2024,1
+Daniel Lambert,daniel_lambert@zewailcity.edu.eg,Biotechnology,3.76,Female,23,105,1994,2024,3
+Jeffrey Lloyd,jeffrey_lloyd@zewailcity.edu.eg,Physics,1.24,Female,20,67,1990,2025,10
+Mary Wright,mary_wright@zewailcity.edu.eg,Physics,2.01,Female,19,146,1991,2027,1
+Kaitlin Barton,kaitlin_barton@zewailcity.edu.eg,Computer Science,2.96,Male,24,63,2004,2025,10
+Kevin Ashley,kevin_ashley@zewailcity.edu.eg,Mechanical Engineering,1.32,Female,25,120,2000,2024,10
+Jeremy Knox,jeremy_knox@zewailcity.edu.eg,Mathematics,3.5,Female,24,119,1998,2025,3
+Alicia Griffin,alicia_griffin@zewailcity.edu.eg,Biotechnology,1.27,Male,20,88,1993,2024,9
+Zachary Adams,zachary_adams@zewailcity.edu.eg,Mathematics,3.23,Male,24,137,1991,2027,10
+Katie Small,katie_small@zewailcity.edu.eg,Physics,2.74,Male,22,109,1990,2024,5
+Kristen Thomas,kristen_thomas@zewailcity.edu.eg,Physics,3.51,Male,22,106,2003,2024,4
+Mrs. Mary Scott MD,mrs._mary_scott_md@zewailcity.edu.eg,Computer Science,3.82,Female,25,124,1990,2024,7
+Jeffrey Frost,jeffrey_frost@zewailcity.edu.eg,Mechanical Engineering,1.51,Female,21,90,1996,2025,4
+Miguel Jennings,miguel_jennings@zewailcity.edu.eg,Mechanical Engineering,1.55,Male,19,104,2001,2026,6
+Veronica Morris,veronica_morris@zewailcity.edu.eg,Physics,2.72,Female,20,114,1993,2026,5
+Catherine Castillo,catherine_castillo@zewailcity.edu.eg,Biotechnology,3.07,Male,19,130,2004,2024,4
+Christina Sullivan,christina_sullivan@zewailcity.edu.eg,Biotechnology,1.32,Female,23,136,2000,2025,10
+Austin Davis,austin_davis@zewailcity.edu.eg,Physics,3.94,Male,24,146,2000,2024,7
+Brandon Rios,brandon_rios@zewailcity.edu.eg,Physics,3.27,Male,23,99,2004,2027,7
+Jessica Sharp,jessica_sharp@zewailcity.edu.eg,Biotechnology,3.22,Female,21,83,1997,2024,5
+Chelsey Miller,chelsey_miller@zewailcity.edu.eg,Biotechnology,1.73,Male,20,136,1999,2024,0
+Kiara Snyder,kiara_snyder@zewailcity.edu.eg,Chemistry,3.25,Female,20,106,2002,2027,4
+Denise Gonzalez,denise_gonzalez@zewailcity.edu.eg,Computer Science,2.42,Male,25,85,1990,2025,4
+Jeremiah Nelson,jeremiah_nelson@zewailcity.edu.eg,Biotechnology,1.33,Female,25,146,2002,2027,3
+Jordan Torres,jordan_torres@zewailcity.edu.eg,Physics,1.73,Male,20,73,1991,2026,7
+Jamie Taylor,jamie_taylor@zewailcity.edu.eg,Mathematics,3.46,Male,21,82,1997,2027,4
+Amy Gonzalez,amy_gonzalez@zewailcity.edu.eg,Biotechnology,3.54,Female,21,121,1995,2025,5
+Thomas Sims,thomas_sims@zewailcity.edu.eg,Computer Science,3.87,Female,21,119,1998,2024,2
+Marissa Marsh,marissa_marsh@zewailcity.edu.eg,Mathematics,2.42,Male,21,79,2004,2025,5
+Amy Wilson,amy_wilson@zewailcity.edu.eg,Physics,2.5,Male,18,108,2001,2024,2
+Daniel Franklin,daniel_franklin@zewailcity.edu.eg,Computer Science,3.41,Male,22,70,2001,2024,0
+Andrea Wheeler,andrea_wheeler@zewailcity.edu.eg,Chemistry,1.27,Female,24,76,1990,2026,4
+Daniel Baird PhD,daniel_baird_phd@zewailcity.edu.eg,Biotechnology,3.27,Female,21,140,2001,2024,1
+Scott Yang,scott_yang@zewailcity.edu.eg,Computer Science,1.38,Male,24,149,1996,2024,8
+Emily Wolfe,emily_wolfe@zewailcity.edu.eg,Computer Science,1.28,Female,20,112,1996,2025,9
+Joe Ho,joe_ho@zewailcity.edu.eg,Computer Science,3.24,Male,25,147,2002,2024,2
+Christopher Miller,christopher_miller@zewailcity.edu.eg,Computer Science,3.82,Male,20,82,1993,2026,10
+Carlos Petty,carlos_petty@zewailcity.edu.eg,Computer Science,3.81,Male,22,110,1999,2026,8
+Jason Nelson,jason_nelson@zewailcity.edu.eg,Computer Science,2.65,Female,25,101,1990,2024,10
+Billy Anthony,billy_anthony@zewailcity.edu.eg,Chemistry,2.95,Male,18,91,2004,2024,7
+Gabrielle Cole,gabrielle_cole@zewailcity.edu.eg,Physics,2.52,Male,19,115,1993,2025,0
+Justin Escobar,justin_escobar@zewailcity.edu.eg,Chemistry,2.39,Male,24,107,1998,2027,2
+Victoria Gomez,victoria_gomez@zewailcity.edu.eg,Chemistry,2.92,Female,20,103,1994,2027,1
+Angela Norman,angela_norman@zewailcity.edu.eg,Mathematics,1.39,Female,18,121,1995,2027,4
+Jeffrey White,jeffrey_white@zewailcity.edu.eg,Biotechnology,1.79,Female,23,140,1994,2026,2
+Katie Horne,katie_horne@zewailcity.edu.eg,Mechanical Engineering,2.47,Female,25,60,1998,2026,9
+Edward Smith,edward_smith@zewailcity.edu.eg,Mechanical Engineering,2.99,Male,20,129,1995,2025,1
+Emily Brock,emily_brock@zewailcity.edu.eg,Physics,2.41,Male,25,95,1992,2027,3
+Jennifer Dominguez,jennifer_dominguez@zewailcity.edu.eg,Mechanical Engineering,1.82,Male,25,117,1999,2026,9
+Jenna Blake,jenna_blake@zewailcity.edu.eg,Computer Science,2.72,Female,23,66,1998,2024,3
+Sarah Ross,sarah_ross@zewailcity.edu.eg,Physics,3.23,Male,21,135,2002,2026,2
+Marco Wilkinson,marco_wilkinson@zewailcity.edu.eg,Mathematics,1.24,Male,25,66,1991,2027,3
+Aaron Barajas,aaron_barajas@zewailcity.edu.eg,Chemistry,3.13,Female,24,98,2004,2025,4
+Marie Chavez,marie_chavez@zewailcity.edu.eg,Mathematics,3.0,Female,19,140,1996,2026,7
+Tyler Ross,tyler_ross@zewailcity.edu.eg,Mathematics,3.13,Male,19,125,1996,2027,5
+Tanya Dean,tanya_dean@zewailcity.edu.eg,Computer Science,1.29,Female,21,75,2000,2024,10
+Shannon Stone,shannon_stone@zewailcity.edu.eg,Physics,3.59,Male,21,71,1992,2027,0
+Shannon Mathis,shannon_mathis@zewailcity.edu.eg,Mechanical Engineering,3.55,Female,20,86,2004,2024,4
+Emma Pollard,emma_pollard@zewailcity.edu.eg,Biotechnology,1.57,Female,18,111,2004,2024,3
+Veronica Patterson,veronica_patterson@zewailcity.edu.eg,Mathematics,1.25,Female,22,80,1999,2026,9
+Andrew Everett,andrew_everett@zewailcity.edu.eg,Mechanical Engineering,3.15,Female,20,101,1994,2027,5
+Heidi Mitchell,heidi_mitchell@zewailcity.edu.eg,Mechanical Engineering,3.98,Female,20,95,2003,2027,8
+Amy Davis,amy_davis@zewailcity.edu.eg,Chemistry,2.04,Female,24,150,1998,2026,8
+Amber Banks,amber_banks@zewailcity.edu.eg,Mathematics,1.53,Male,21,130,1999,2024,4
+Gilbert Carrillo,gilbert_carrillo@zewailcity.edu.eg,Mechanical Engineering,1.72,Male,23,149,1998,2024,3
+Stephen Chen,stephen_chen@zewailcity.edu.eg,Biotechnology,2.4,Female,25,111,1993,2025,1
+Tyler Fisher,tyler_fisher@zewailcity.edu.eg,Computer Science,2.07,Female,25,127,1992,2024,5
+Denise Dixon,denise_dixon@zewailcity.edu.eg,Computer Science,2.3,Female,22,69,2000,2024,5
+Miss Emily Hernandez,miss_emily_hernandez@zewailcity.edu.eg,Mathematics,3.51,Female,19,90,1993,2024,6
+Alvin Sanchez,alvin_sanchez@zewailcity.edu.eg,Biotechnology,1.62,Male,24,150,2004,2027,8
+Kathryn Alexander,kathryn_alexander@zewailcity.edu.eg,Computer Science,1.24,Male,20,102,1992,2027,5
+Nicholas Stephens,nicholas_stephens@zewailcity.edu.eg,Computer Science,1.63,Female,20,128,1992,2025,0
+Roger Johnson,roger_johnson@zewailcity.edu.eg,Computer Science,3.44,Male,25,121,2002,2025,9
+Brian Woodward,brian_woodward@zewailcity.edu.eg,Computer Science,3.94,Female,23,149,1995,2025,8
+Mathew Allison,mathew_allison@zewailcity.edu.eg,Computer Science,3.54,Female,19,97,1994,2027,5
+Randall Bond,randall_bond@zewailcity.edu.eg,Physics,3.42,Female,22,101,1999,2027,2
+James Nichols,james_nichols@zewailcity.edu.eg,Mathematics,3.05,Female,18,137,1990,2027,0
+Holly Gibson,holly_gibson@zewailcity.edu.eg,Biotechnology,2.84,Male,20,98,1998,2024,0
+Rebecca Welch,rebecca_welch@zewailcity.edu.eg,Mechanical Engineering,3.85,Female,22,130,1999,2025,9
+Joshua Young,joshua_young@zewailcity.edu.eg,Biotechnology,1.79,Female,23,113,2002,2026,4
+Andrew Nichols,andrew_nichols@zewailcity.edu.eg,Chemistry,3.74,Female,25,124,2000,2024,10
+Yesenia Bennett,yesenia_bennett@zewailcity.edu.eg,Biotechnology,1.37,Female,19,91,1990,2026,5
+Casey Garcia,casey_garcia@zewailcity.edu.eg,Computer Science,3.76,Female,19,73,2002,2027,7
+Jessica Ray,jessica_ray@zewailcity.edu.eg,Biotechnology,1.26,Male,19,134,1992,2027,4
+Tiffany Jenkins,tiffany_jenkins@zewailcity.edu.eg,Mathematics,3.83,Female,21,107,1994,2025,3
+Jeffrey Clarke,jeffrey_clarke@zewailcity.edu.eg,Biotechnology,3.18,Female,22,84,2001,2026,7
+Kimberly Romero,kimberly_romero@zewailcity.edu.eg,Chemistry,3.96,Female,24,73,1990,2026,8
+Wayne Williams,wayne_williams@zewailcity.edu.eg,Mathematics,3.17,Female,23,145,2004,2027,0
+Danielle Greene,danielle_greene@zewailcity.edu.eg,Biotechnology,2.45,Female,20,149,1992,2024,5
+Shannon Sanders,shannon_sanders@zewailcity.edu.eg,Chemistry,3.58,Male,22,107,1998,2027,4
+Justin Jefferson,justin_jefferson@zewailcity.edu.eg,Physics,3.35,Female,23,69,1997,2026,10
+James Miller,james_miller@zewailcity.edu.eg,Biotechnology,2.96,Male,19,134,2000,2024,5
+Mary Macias,mary_macias@zewailcity.edu.eg,Mathematics,3.12,Male,24,61,2001,2025,1
+Robert Kaufman,robert_kaufman@zewailcity.edu.eg,Biotechnology,2.74,Male,21,131,2001,2027,5
+Katie Martin,katie_martin@zewailcity.edu.eg,Mechanical Engineering,2.0,Female,23,112,2002,2024,10
+Elizabeth Coleman,elizabeth_coleman@zewailcity.edu.eg,Mechanical Engineering,2.55,Male,18,70,1994,2026,8
+Cristian Miller,cristian_miller@zewailcity.edu.eg,Chemistry,2.12,Female,18,78,1998,2026,3
+Kimberly Roberts,kimberly_roberts@zewailcity.edu.eg,Physics,2.34,Female,23,64,1996,2027,3
+Francis Beck,francis_beck@zewailcity.edu.eg,Mathematics,1.28,Male,23,73,2002,2024,1
+David Ayers,david_ayers@zewailcity.edu.eg,Computer Science,3.29,Female,20,108,1999,2024,10
+Thomas Johnson,thomas_johnson@zewailcity.edu.eg,Mathematics,2.65,Female,22,149,1993,2026,6
+Erin Myers,erin_myers@zewailcity.edu.eg,Mathematics,2.39,Female,21,123,1998,2026,4
+Belinda Simpson,belinda_simpson@zewailcity.edu.eg,Chemistry,2.88,Female,19,132,2001,2024,8
+Vickie Madden,vickie_madden@zewailcity.edu.eg,Mathematics,3.96,Female,25,147,1990,2024,1
+Jennifer Lawrence,jennifer_lawrence@zewailcity.edu.eg,Physics,3.14,Male,23,148,2002,2025,10
+Melissa Rivas,melissa_rivas@zewailcity.edu.eg,Computer Science,3.74,Female,20,116,1994,2025,9
+Shane Mason,shane_mason@zewailcity.edu.eg,Computer Science,2.07,Male,23,77,1992,2027,1
+Andrew Jones,andrew_jones@zewailcity.edu.eg,Mathematics,1.26,Male,23,132,1996,2024,2
+Jamie Paul,jamie_paul@zewailcity.edu.eg,Chemistry,2.98,Female,22,75,1991,2026,10
+Eric Barnes,eric_barnes@zewailcity.edu.eg,Physics,3.81,Female,21,70,1999,2027,7
+Jonathan Smith,jonathan_smith@zewailcity.edu.eg,Chemistry,3.89,Male,21,123,2001,2025,2
+Melissa Mathews,melissa_mathews@zewailcity.edu.eg,Computer Science,2.32,Female,24,65,1998,2024,6
+Mitchell Gonzalez,mitchell_gonzalez@zewailcity.edu.eg,Chemistry,1.66,Female,24,93,1996,2027,3
+William Ward,william_ward@zewailcity.edu.eg,Mechanical Engineering,1.34,Male,23,141,1992,2025,7
+John Nguyen,john_nguyen@zewailcity.edu.eg,Biotechnology,1.73,Male,18,87,2000,2025,8
+Eric Dixon,eric_dixon@zewailcity.edu.eg,Computer Science,1.35,Male,23,98,2002,2027,5
+Austin Wilson,austin_wilson@zewailcity.edu.eg,Physics,3.89,Male,22,86,1991,2024,10
+Kelly Phelps,kelly_phelps@zewailcity.edu.eg,Biotechnology,3.44,Male,23,104,1993,2027,10
+Alyssa Baker,alyssa_baker@zewailcity.edu.eg,Mechanical Engineering,3.0,Female,25,130,1996,2024,1
+Brittany Paul,brittany_paul@zewailcity.edu.eg,Biotechnology,1.35,Male,24,148,2004,2024,2
+Brandi Ross,brandi_ross@zewailcity.edu.eg,Computer Science,3.74,Female,23,76,2003,2027,6
+Erin Collins,erin_collins@zewailcity.edu.eg,Computer Science,3.06,Male,25,149,1995,2027,6
+Victoria Roach,victoria_roach@zewailcity.edu.eg,Chemistry,3.61,Male,20,88,1996,2027,5
+Jennifer Vincent,jennifer_vincent@zewailcity.edu.eg,Chemistry,1.35,Male,20,125,1993,2027,9
+Mike Brooks,mike_brooks@zewailcity.edu.eg,Mechanical Engineering,1.62,Male,23,149,1996,2025,2
+Lisa Velez,lisa_velez@zewailcity.edu.eg,Mathematics,3.05,Male,19,66,2003,2026,3
+Jeremy Chen,jeremy_chen@zewailcity.edu.eg,Mechanical Engineering,3.39,Female,18,145,1992,2025,1
+Sherry Gibson,sherry_gibson@zewailcity.edu.eg,Biotechnology,2.93,Male,23,67,1999,2024,1
+Emily Smith,emily_smith@zewailcity.edu.eg,Biotechnology,1.82,Male,22,96,1993,2025,9
+Krista Williams,krista_williams@zewailcity.edu.eg,Mechanical Engineering,1.89,Male,22,120,1992,2024,8
+Christina Collins,christina_collins@zewailcity.edu.eg,Mathematics,1.98,Female,21,141,1995,2025,9
+Taylor Holden,taylor_holden@zewailcity.edu.eg,Chemistry,3.3,Female,18,86,2004,2025,5
+Mrs. Melissa Cunningham,mrs._melissa_cunningham@zewailcity.edu.eg,Mathematics,3.76,Female,23,143,1996,2025,1
+Nathan Daniels,nathan_daniels@zewailcity.edu.eg,Computer Science,1.28,Male,18,74,1995,2025,0
+Wendy White,wendy_white@zewailcity.edu.eg,Chemistry,3.26,Female,24,129,1994,2024,6
+Patrick Barrera,patrick_barrera@zewailcity.edu.eg,Mathematics,2.49,Female,22,80,1993,2026,2
+Clinton Osborn,clinton_osborn@zewailcity.edu.eg,Chemistry,2.33,Male,25,127,2000,2024,3
+Tamara Porter,tamara_porter@zewailcity.edu.eg,Computer Science,3.8,Male,21,64,1994,2026,3
+Jessica Blackwell,jessica_blackwell@zewailcity.edu.eg,Computer Science,2.24,Male,24,82,1993,2027,10
+Brenda Lawrence,brenda_lawrence@zewailcity.edu.eg,Computer Science,3.06,Male,24,74,1994,2024,0
+Jonathan Johnson,jonathan_johnson@zewailcity.edu.eg,Mechanical Engineering,1.64,Male,22,88,1995,2027,3
+Julie Rowland DDS,julie_rowland_dds@zewailcity.edu.eg,Mechanical Engineering,3.94,Male,19,100,1993,2025,10
+Edwin Patel,edwin_patel@zewailcity.edu.eg,Biotechnology,1.55,Female,25,145,1994,2026,7
+Elizabeth Cardenas,elizabeth_cardenas@zewailcity.edu.eg,Computer Science,3.66,Female,20,133,2001,2024,2
+Ronald Stephenson,ronald_stephenson@zewailcity.edu.eg,Computer Science,2.44,Male,23,97,1991,2026,0
+Patrick Levy,patrick_levy@zewailcity.edu.eg,Mechanical Engineering,2.23,Female,18,103,2001,2024,6
+Christopher Zimmerman,christopher_zimmerman@zewailcity.edu.eg,Mechanical Engineering,2.49,Male,23,149,1996,2024,8
+Amber Whitehead,amber_whitehead@zewailcity.edu.eg,Computer Science,3.04,Male,25,150,2004,2027,6
+Daniel Barnes,daniel_barnes@zewailcity.edu.eg,Computer Science,3.71,Male,18,149,1994,2024,10
+Michael Johnson,michael_johnson@zewailcity.edu.eg,Biotechnology,2.91,Male,23,140,1998,2027,7
+Randall Bryant,randall_bryant@zewailcity.edu.eg,Computer Science,1.49,Female,22,143,1991,2027,9
+Jo Johnson,jo_johnson@zewailcity.edu.eg,Mechanical Engineering,1.94,Female,23,102,1998,2026,9
+April Graves,april_graves@zewailcity.edu.eg,Mathematics,1.87,Male,20,87,1997,2025,10
+Latoya Griffin,latoya_griffin@zewailcity.edu.eg,Computer Science,3.52,Female,21,127,2000,2026,10
+Sarah Lee,sarah_lee@zewailcity.edu.eg,Physics,2.59,Male,22,127,2003,2026,3
+Casey Thompson,casey_thompson@zewailcity.edu.eg,Physics,2.82,Female,19,101,2001,2026,5
+Deanna Huff,deanna_huff@zewailcity.edu.eg,Mathematics,3.13,Female,19,131,2000,2025,8
+Nicholas Horn,nicholas_horn@zewailcity.edu.eg,Mathematics,1.83,Female,21,112,1997,2025,8
+Jerry Alexander,jerry_alexander@zewailcity.edu.eg,Computer Science,1.7,Female,19,141,1995,2024,7
+Kelly Roberts,kelly_roberts@zewailcity.edu.eg,Computer Science,2.42,Female,23,76,2002,2025,10
+Brandon Estes,brandon_estes@zewailcity.edu.eg,Chemistry,3.64,Male,19,66,1993,2024,5
+Mary Price,mary_price@zewailcity.edu.eg,Chemistry,1.67,Male,21,93,1994,2026,3
+Alan Lopez,alan_lopez@zewailcity.edu.eg,Biotechnology,3.63,Male,20,106,1996,2027,9
+William Zavala,william_zavala@zewailcity.edu.eg,Mechanical Engineering,3.89,Female,22,135,2004,2027,0
+Robert Griffin,robert_griffin@zewailcity.edu.eg,Mechanical Engineering,1.73,Female,18,130,1999,2024,0
+David Wagner,david_wagner@zewailcity.edu.eg,Physics,2.7,Male,23,63,1994,2025,0
+Mrs. Rhonda Jordan,mrs._rhonda_jordan@zewailcity.edu.eg,Chemistry,1.85,Male,21,145,1995,2025,2
+Erin Hall,erin_hall@zewailcity.edu.eg,Mathematics,1.66,Female,22,102,2002,2026,8
+Kathleen Finley,kathleen_finley@zewailcity.edu.eg,Biotechnology,1.56,Male,18,116,2002,2027,10
+Anna Williams,anna_williams@zewailcity.edu.eg,Mechanical Engineering,3.01,Male,18,100,2000,2026,6
+Caitlin Henderson,caitlin_henderson@zewailcity.edu.eg,Physics,2.17,Female,22,120,1996,2024,5
+Brian Olson,brian_olson@zewailcity.edu.eg,Mathematics,2.45,Female,21,129,1998,2024,6
+Dr. Shawn Kelly,dr._shawn_kelly@zewailcity.edu.eg,Mathematics,3.33,Male,18,63,2003,2026,2
+Laura Nguyen,laura_nguyen@zewailcity.edu.eg,Biotechnology,1.9,Male,19,71,1999,2025,6
+Amy Cain,amy_cain@zewailcity.edu.eg,Chemistry,3.46,Male,24,108,1991,2026,4
+Aaron Hoover,aaron_hoover@zewailcity.edu.eg,Physics,2.9,Male,24,100,1997,2026,10
+Jeffery Dalton,jeffery_dalton@zewailcity.edu.eg,Biotechnology,1.28,Male,25,125,1996,2025,2
+Mark Villanueva,mark_villanueva@zewailcity.edu.eg,Chemistry,2.49,Male,22,82,1997,2026,3
+Elizabeth Ellison,elizabeth_ellison@zewailcity.edu.eg,Mathematics,2.04,Male,25,63,1990,2026,10
+Robert Kane,robert_kane@zewailcity.edu.eg,Computer Science,1.44,Male,19,87,2002,2026,9
+Melissa French,melissa_french@zewailcity.edu.eg,Biotechnology,1.44,Male,20,135,1990,2024,6
+Lisa Harrison,lisa_harrison@zewailcity.edu.eg,Chemistry,1.65,Female,23,140,1998,2026,4
+Tammy Mckenzie,tammy_mckenzie@zewailcity.edu.eg,Mechanical Engineering,2.81,Male,24,95,2001,2025,10
+Nicole Owens,nicole_owens@zewailcity.edu.eg,Mathematics,3.74,Female,25,120,2001,2025,4
+Maria Jacobs,maria_jacobs@zewailcity.edu.eg,Mathematics,3.46,Female,21,123,2002,2025,3
+Tyler Russell,tyler_russell@zewailcity.edu.eg,Mechanical Engineering,2.02,Male,19,113,2001,2026,8
+Danny Mitchell,danny_mitchell@zewailcity.edu.eg,Biotechnology,3.58,Female,20,81,1990,2025,8
+Robert Santos DVM,robert_santos_dvm@zewailcity.edu.eg,Computer Science,1.25,Male,21,141,1991,2026,3
+Albert Galvan,albert_galvan@zewailcity.edu.eg,Mechanical Engineering,3.45,Male,21,130,1999,2026,7
+John Cunningham,john_cunningham@zewailcity.edu.eg,Physics,2.85,Male,18,123,1998,2024,0
+Mario Ross,mario_ross@zewailcity.edu.eg,Chemistry,1.71,Female,20,121,1997,2025,6
+Shannon Smith,shannon_smith@zewailcity.edu.eg,Physics,1.27,Male,18,144,2004,2027,8
+Douglas Byrd,douglas_byrd@zewailcity.edu.eg,Chemistry,1.83,Male,19,86,1994,2024,3
+Colleen Golden,colleen_golden@zewailcity.edu.eg,Chemistry,3.9,Female,21,129,1992,2024,4
+Geoffrey Spence,geoffrey_spence@zewailcity.edu.eg,Mathematics,2.14,Female,24,77,1996,2024,10
+Nathan Mason,nathan_mason@zewailcity.edu.eg,Physics,1.62,Male,20,109,1998,2024,0
+Michelle Martinez,michelle_martinez@zewailcity.edu.eg,Mathematics,2.6,Female,23,88,2004,2024,8
+Shannon Kelley,shannon_kelley@zewailcity.edu.eg,Biotechnology,2.82,Male,19,115,1999,2026,7
+Carl Jarvis,carl_jarvis@zewailcity.edu.eg,Physics,3.07,Female,20,71,1998,2027,6
+Robert Anderson,robert_anderson@zewailcity.edu.eg,Mechanical Engineering,1.32,Female,22,108,1996,2027,0
+Anne Kelly,anne_kelly@zewailcity.edu.eg,Chemistry,1.74,Female,20,87,1997,2024,1
+Joseph Green,joseph_green@zewailcity.edu.eg,Mechanical Engineering,2.47,Female,24,69,1999,2026,3
+Lisa Ross,lisa_ross@zewailcity.edu.eg,Computer Science,2.39,Female,22,106,1999,2027,10
+Krista Kane,krista_kane@zewailcity.edu.eg,Biotechnology,1.69,Female,19,77,1990,2025,2
+Lori Cox,lori_cox@zewailcity.edu.eg,Mathematics,3.11,Male,18,80,1993,2025,7
+Anthony Taylor,anthony_taylor@zewailcity.edu.eg,Computer Science,2.69,Male,18,139,2003,2026,4
+Katherine Ritter,katherine_ritter@zewailcity.edu.eg,Computer Science,2.46,Female,19,146,1998,2024,9
+Erica Robinson,erica_robinson@zewailcity.edu.eg,Physics,3.76,Female,18,102,1992,2024,9
+John Hughes,john_hughes@zewailcity.edu.eg,Chemistry,2.83,Female,22,112,2000,2027,10
+Ricky Moody,ricky_moody@zewailcity.edu.eg,Mathematics,1.37,Male,22,84,1998,2026,1
+Joel Potter,joel_potter@zewailcity.edu.eg,Mathematics,2.72,Female,20,137,2003,2027,3
+Travis Richards,travis_richards@zewailcity.edu.eg,Computer Science,3.78,Female,23,99,1994,2027,5
+Nicole Briggs,nicole_briggs@zewailcity.edu.eg,Chemistry,2.61,Male,23,136,1999,2026,10
+Jason Cooley,jason_cooley@zewailcity.edu.eg,Biotechnology,3.14,Female,22,129,1997,2026,4
